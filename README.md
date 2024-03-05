@@ -71,6 +71,14 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Arxiv](https://arxiv.org/) | 开放免费的科学研究论文预印本库，主要面向物理学、数学、计算机科学、经济学等领域 |
 
 
+## X（推特 twitter）
+
+| 大V                          | 备注 |
+| ---------------------------------- | ---- |
+| [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个Twitter排行榜列表 |
+| [OpenAI](https://twitter.com/OpenAI) | OpenAI官方号，发布最强AI模型最新消息 |
+
+
 ## 公众号
 | 平台链接                         | 备注 |
 | ---------------------------------- | ------ |
@@ -137,14 +145,6 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) | Geoffrey Hinton，被誉为“深度学习之父”，他的个人主页分享了他在AI领域的研究和成果，提供深度学习和人工智能的深度文章。|
 | [Jason Brownlee](https://karpathy.github.io/) | Jason Brownlee的博客，提供机器学习和深度学习的教程和文章，提供机器学习和深度学习的教程和文章。 |
 | [Li'Log:lilian](https://lilianweng.github.io/) | 基本上可以把一个领域，系统的梳理清楚。通俗易懂，深入浅出!   |
-
-
-## X（推特 twitter）
-
-| 大V                          | 备注 |
-| ---------------------------------- | ---- |
-| [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个Twitter排行榜列表 |
-| [OpenAI](https://twitter.com/OpenAI) | OpenAI官方号，发布最强AI模型最新消息 |
 
 
 ## 知乎
