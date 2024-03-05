@@ -81,8 +81,17 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Yann LeCun](https://twitter.com/ylecun) | Meta前首席科学家 |
 | [Andrej Karpathy](https://twitter.com/karpathy) | 前特斯拉的AI总监，也是OpenAI的创始团队成员和研究科学家 |
 | [François Chollet](https://twitter.com/fchollet) | 推特界最会研究人工智能的一位网红科学家，Keras创始人|
+| [李飞飞](https://twitter.com/drfeifei) | 是斯坦福大学人工智能实验室的主任，她是计算机视觉和人工智能领域的领先专家之一|
+| [Soumith Chintala](https://twitter.com/soumithchintala) | FAIR 研究工程师、深度学习框架 PyTorch 创建者之一 |
+| [Sebastian Raschka](https://twitter.com/rasbt) | 经常分享论文解读 |
+| [clem](https://twitter.com/ClementDelangue) | HuggingFace创始人兼CEO  |
+| [Kevin Patrick Murphy](https://twitter.com/sirbayes) | 谷歌大脑/深度学习的研究科学家。|
+| [Mark Chen](https://twitter.com/markchen90) | OpenAI的研究部门负责人 |
+| [Connor Holmes](https://twitter.com/cmikeh2) | Sora系统领导 |
+| [Tim Brooks](https://twitter.com/_tim_brooks) | Sora研究领导 |
 | [AK](https://twitter.com/_akhaliq) | 知名博主 |
 | [宝玉](https://twitter.com/dotey) | 推特宝玉老师，知名博主 |
+
 
 ## 公众号
 | 平台链接                         | 备注 |
