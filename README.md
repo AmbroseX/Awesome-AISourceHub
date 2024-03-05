@@ -6,7 +6,7 @@
 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 
 信息源越接近于源头的内容越好呢？下面这张图可以简单解释 信息流垃圾理论简图
-![](./images/GHjI6S3bQAAUbB5.jpg)
+![信息流垃圾理论简图](./images/GHjI6S3bQAAUbB5.jpg)
 你认同这个图的顺序吗？
 (小红书里面的一手信息还是挺多的，只不过没有办法贴上原文链接，是个硬伤)
 
@@ -77,7 +77,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | ---------------------------------- | ---- |
 | [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个Twitter排行榜列表 |
 | [OpenAI](https://twitter.com/OpenAI) | OpenAI官方号，发布最强AI模型最新消息 |
-
+| [Elon Musk](https://twitter.com/elonmusk) | 钢铁侠马斯克 |
 
 ## 公众号
 | 平台链接                         | 备注 |
