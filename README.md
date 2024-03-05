@@ -78,6 +78,11 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个Twitter排行榜列表 |
 | [OpenAI](https://twitter.com/OpenAI) | OpenAI官方号，发布最强AI模型最新消息 |
 | [Elon Musk](https://twitter.com/elonmusk) | 钢铁侠马斯克 |
+| [Yann LeCun](https://twitter.com/ylecun) | Meta前首席科学家 |
+| [Andrej Karpathy](https://twitter.com/karpathy) | 前特斯拉的AI总监，也是OpenAI的创始团队成员和研究科学家 |
+| [François Chollet](https://twitter.com/fchollet) | 推特界最会研究人工智能的一位网红科学家，Keras创始人|
+| [AK](https://twitter.com/_akhaliq) | 知名博主 |
+| [宝玉](https://twitter.com/dotey) | 推特宝玉老师，知名博主 |
 
 ## 公众号
 | 平台链接                         | 备注 |
