@@ -39,8 +39,8 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [推特](https://twitter.com/home) |      |
 | [公众号]                      |      |
 | [知识星球]()                    |      |
-| [播客]()                         |      |
-
+| [播客](https://www.xiaoyuzhoufm.com/)                         |      |
+| [Arxiv](https://arxiv.org/) | 开放免费的科学研究论文预印本库，主要面向物理学、数学、计算机科学、经济学等领域 |
 
 
 ## 公众号
@@ -72,9 +72,8 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [强化学习实验室](https://mp.weixin.qq.com/s/0fSJa3QQ_E5PQXNlukcHsQ) | 天大郝建业老师组的知识分享平台.他们分享的论文都比较重要，他们写的帖子也非常深入浅出。输出频率不算高，但比较稳定。|
 
 
-
-
 ## 网站
+
 | 平台链接                         | 备注 |
 | ---------------------------------- | ------ |
 | [GitHub Trending](https://github.com/trending) |  Github热榜，程序员必刷，祝大家早日登榜! |
@@ -86,6 +85,9 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [菜鸟教程](https://www.runoob.com/) | 学的不仅是技术，更是梦想!:拓展技术栈比较好的网站 |
 | [LLM-Arxiv](https://arxiv.org/list/cs.CL/recent) | 关于LLM的最新Arxiv论文列表，有空刷一下。这是原始信息源,是Cool Papers的简版|
 | [ShowMeAl](https://www.showmeai.tech/) | 乔sir维护的Al日报。一个AI信息的整合平台。
+| [Futurepedia](https://www.futurepedia.io/) | AI 应用目录，每日更新。|
+| [Reddit ChatGPT](https://www.reddit.com/r/ChatGPT) | 成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者 |
+| [Reddit artificial](https://www.reddit.com/r/artificial/) | Reddit 人工智能社区，73万订阅 |
 
 ## 播客
 
@@ -98,15 +100,20 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 | 平台链接                         | 备注 |
 | ---------------------------------- | ------ |
+| [OpenAI Blog](https://openai.com/blog) | OpenAI的官方博客，提供研究更新和深度分析，提供深度学习和人工智能相关的深度文章。|
+| [Google Blog](https://blog.research.google/) | Google AI团队的官方博客，介绍最新的研究进展和应用，提供人工智能和机器学习的新闻和研究。|
+| [Deepmind Blog](https://deepmind.google/discover/blog/) | DeepMind的官方博客，介绍他们的研究成果和最新进展，提供人工智能和深度学习的最新研究成果。|
+| [Meta Blog](https://ai.meta.com/blog/) | Facebook AI团队的官方博客，分享他们的研究和新的AI技术，提供AI的最新研究成果和应用。|
+| [Nvidia Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | 英伟达公司的官方AI博客，分享他们在AI和深度学习领域的最新进展和研究，提供了大量关于硬件加速、AI应用和深度学习的深度文章。|
+| [Microsoft Blog](https://blogs.microsoft.com/) | 微软公司的官方AI博客，分享他们在AI和机器学习领域的最新研究和进展，提供了大量关于AI技术和应用的深度文章。|
+| [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) | Geoffrey Hinton，被誉为“深度学习之父”，他的个人主页分享了他在AI领域的研究和成果，提供深度学习和人工智能的深度文章。|
+| [Jason Brownlee](https://karpathy.github.io/) | Jason Brownlee的博客，提供机器学习和深度学习的教程和文章，提供机器学习和深度学习的教程和文章。 |
 | [Li'Log:lilian](https://lilianweng.github.io/) | 基本上可以把一个领域，系统的梳理清楚。通俗易懂，深入浅出!   |
-| [LilianWeng](https://lilianweng.github.io/) |      |
-
-
 
 
 ## X（推特 twitter）
 
-| 大V链接                          | 备注 |
+| 大V                          | 备注 |
 | ---------------------------------- | ---- |
 
 
@@ -116,6 +123,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | ---------------------------------- | ---- |
 | [Hugging Face](https://www.zhihu.com/org/huggingface) | Huggingface face官方号，会分享一些基础技术贴，工作日更新频率比较高。|
 | [苏剑林](https://www.zhihu.com/people/su-jian-lin-22) | 苏剑林:苏佬去年从追一去月之暗面了。玩知乎的，苏佬应该不用多介绍了。虽然大本营在他自己的科学空间，后面也会介绍，但知乎刷起来会更方便一些。唯一难受的是，苏佬很多帖子都需要一定的数理基础才能看懂。|
+| [李沐](https://www.zhihu.com/people/mli65) | 沐神，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和AI相关文章，B站 有他的系列课程。|
 | [李博杰](https://www.zhihu.com/people/li-bo-jie) | 科大博士，前华为天少。师兄的知乎分享频率非常高，质量同样高，长文干货贴+脑洞+个人见解。领域几乎包含全AI领域，值得大家关注。|
 | [李rumor](https://www.zhihu.com/people/rumor-lee) | 北航，现在美团做RLHF。其实公众号是她的主战场会分享一些有趣的AI知识。但感觉在美团做RLHF，已经占用了她太多的时间了，更新频率没那么高了。|
 | [刘聪NLP](https://www.zhihu.com/people/LiuCongNLP) | 《ChatGPT原理与实战》作者。LLM的学术和行业信息。 |
@@ -131,6 +139,8 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [东林钟声](https://www.zhihu.com/people/dong-lin-zhong-sheng-76) | 华科博士。博士方向是RL+灵巧手。现在主要研究LLM+灵巧手。大佬的干货比例和更新频率都比较好。| 
 | [YY硕](https://www.zhihu.com/people/yyss2037) | 卡内基梅隆大学博士。机器人领域的优质答主，关注就完事儿了。输出频率不高，但每个帖子都值得认真阅读。 |
 | [李淼robot](https://www.zhihu.com/people/li-miao-8-1) | EPFL(瑞士洛桑联邦理工).博士，现在武汉某高校(隐约记得是武大)。李老师是机器人领域的优质答主，之前有比较多的教程贴，现在更新频率较低。|
+| [丁霄汉](https://www.zhihu.com/people/ding-xiao-yi-93) | 清华博士，现在腾讯AIlab。主要分享一些关于学术写作、审稿、cv、AI圈八卦和暴论。阅读起来比较开心|
+| [电光幻影炼金术](https://www.zhihu.com/people/zhao-ytc) | 上交博士，大佬的方向很杂，我刷了一圈都定位到具体专业。主要分享全领域学术进展、读研读博教程(包括写作、投稿、审稿、师生关系等)，更新频率比较高。|
 
 
 ## B站Up主
@@ -163,7 +173,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 | 平台链接                         | 备注 |
 | -------------------------------- | ---- |
-
+| [李宏毅](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) | 台湾科技大学的知名AI研究者，提供深度学习和人工智能的深度文章和视频。 |
 
 ## 电报
 
@@ -176,7 +186,6 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 
 ## 垂类AI网站
-
 
 
 
