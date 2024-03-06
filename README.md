@@ -83,13 +83,14 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Mark Chen](https://twitter.com/markchen90) | OpenAI的研究部门负责人 |
 | [Connor Holmes](https://twitter.com/cmikeh2) | Sora系统领导 |
 | [Tim Brooks](https://twitter.com/_tim_brooks) | Sora研究领导 |
-| [AK](https://twitter.com/_akhaliq) | 知名博主 |
+| [AK](https://twitter.com/_akhaliq) | 知名博主，经常发布论文 |
 | [宝玉](https://twitter.com/dotey) | 推特宝玉老师，知名博主 |
 | [Jim Fan](https://twitter.com/DrJimFan) | Jim Fan, Nvidia 的科学家，经常分享 AI 相关 |
 | [吴恩达](https://twitter.com/AndrewYNg) | 吴恩达，人工智能大师、谷歌杰出科学家、深度学习先驱、在线教育先锋 |
 | [歸藏](https://twitter.com/op7418) | 歸藏，经常分享 AI 最新资讯 |
 | [Gorden Sun](https://twitter.com/Gorden_Sun) | 只发AI相关信息的产品经理，维护 AI 日报 |
-
+| [Y11](https://twitter.com/seclink) | Y11，经常分享 AI 最新资讯 ，arxiv论文解读 |
+| [Will](https://twitter.com/FinanceYF5) | Will，经常分享 AI 最新资讯 |
 
 ## 公众号
 
