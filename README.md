@@ -67,24 +67,29 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 ## X（推特 twitter）
 
-| 大 V                                                               | 备注                                                                         |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个 Twitter 排行榜列表                                                      |
-| [OpenAI](https://twitter.com/OpenAI)                               | OpenAI 官方号，发布最强 AI 模型最新消息                                      |
-| [Elon Musk](https://twitter.com/elonmusk)                          | 钢铁侠马斯克                                                                 |
-| [Yann LeCun](https://twitter.com/ylecun)                           | Meta 前首席科学家                                                            |
-| [Andrej Karpathy](https://twitter.com/karpathy)                    | 前特斯拉的 AI 总监，也是 OpenAI 的创始团队成员和研究科学家                   |
-| [François Chollet](https://twitter.com/fchollet)                   | 推特界最会研究人工智能的一位网红科学家，Keras 创始人                         |
-| [李飞飞](https://twitter.com/drfeifei)                             | 是斯坦福大学人工智能实验室的主任，她是计算机视觉和人工智能领域的领先专家之一 |
-| [Soumith Chintala](https://twitter.com/soumithchintala)            | FAIR 研究工程师、深度学习框架 PyTorch 创建者之一                             |
-| [Sebastian Raschka](https://twitter.com/rasbt)                     | 经常分享论文解读                                                             |
-| [clem](https://twitter.com/ClementDelangue)                        | HuggingFace 创始人兼 CEO                                                     |
-| [Kevin Patrick Murphy](https://twitter.com/sirbayes)               | 谷歌大脑/深度学习的研究科学家。                                              |
-| [Mark Chen](https://twitter.com/markchen90)                        | OpenAI 的研究部门负责人                                                      |
-| [Connor Holmes](https://twitter.com/cmikeh2)                       | Sora 系统领导                                                                |
-| [Tim Brooks](https://twitter.com/_tim_brooks)                      | Sora 研究领导                                                                |
-| [AK](https://twitter.com/_akhaliq)                                 | 知名博主                                                                     |
-| [宝玉](https://twitter.com/dotey)                                  | 推特宝玉老师，知名博主                                                       |
+| 大V                          | 备注 |
+| ---------------------------------- | ---- |
+| [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个Twitter排行榜列表 |
+| [OpenAI](https://twitter.com/OpenAI) | OpenAI官方号，发布最强AI模型最新消息 |
+| [Elon Musk](https://twitter.com/elonmusk) | 钢铁侠马斯克 |
+| [Yann LeCun](https://twitter.com/ylecun) | Meta前首席科学家 |
+| [Andrej Karpathy](https://twitter.com/karpathy) | 前特斯拉的AI总监，也是OpenAI的创始团队成员和研究科学家 |
+| [François Chollet](https://twitter.com/fchollet) | 推特界最会研究人工智能的一位网红科学家，Keras创始人|
+| [李飞飞](https://twitter.com/drfeifei) | 是斯坦福大学人工智能实验室的主任，她是计算机视觉和人工智能领域的领先专家之一|
+| [Soumith Chintala](https://twitter.com/soumithchintala) | FAIR 研究工程师、深度学习框架 PyTorch 创建者之一 |
+| [Sebastian Raschka](https://twitter.com/rasbt) | 经常分享论文解读 |
+| [clem](https://twitter.com/ClementDelangue) | HuggingFace创始人兼CEO  |
+| [Kevin Patrick Murphy](https://twitter.com/sirbayes) | 谷歌大脑/深度学习的研究科学家。|
+| [Mark Chen](https://twitter.com/markchen90) | OpenAI的研究部门负责人 |
+| [Connor Holmes](https://twitter.com/cmikeh2) | Sora系统领导 |
+| [Tim Brooks](https://twitter.com/_tim_brooks) | Sora研究领导 |
+| [AK](https://twitter.com/_akhaliq) | 知名博主 |
+| [宝玉](https://twitter.com/dotey) | 推特宝玉老师，知名博主 |
+| [Jim Fan](https://twitter.com/DrJimFan) | Jim Fan, Nvidia 的科学家，经常分享 AI 相关 |
+| [吴恩达](https://twitter.com/AndrewYNg) | 吴恩达，人工智能大师、谷歌杰出科学家、深度学习先驱、在线教育先锋 |
+| [歸藏](https://twitter.com/op7418) | 歸藏，经常分享 AI 最新资讯 |
+| [Gorden Sun](https://twitter.com/Gorden_Sun) | 只发AI相关信息的产品经理，维护 AI 日报 |
+
 
 ## 公众号
 
