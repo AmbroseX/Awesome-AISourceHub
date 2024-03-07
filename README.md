@@ -221,20 +221,3 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 ## 垂类 AI 网站
 
 ## 知识星球
-
-
-## 学习交流
-
-欢迎加我,或者加入微信交流群<br>
-
-<p align="center">
-  <img src="./images/wechat.png" alt="Wechat QR Code" width="300"/>
-</p>
-<p align="center">
-  <img src="./images/contact-me.png" alt="Wechat QR Code" width="300"/>
-</p>
-<p align="center">
-    <img src="./images/wechat-group.jpg" alt="Wechat QR Code" width="300"/>
-</p>
-
-  
