@@ -6,7 +6,7 @@ type CardProps = Tool;
 
 const Card: React.FC<CardProps> = ({ title, is_free, image, description, href }) => {
     return (
-        <a href={`${href}?ref=${siteConfig.site}`} target="_blank" rel="noopener noreferrer"
+        <a href={`${href}?ref=${siteConfig.site}`} target="_blank" rel="noopener noreferrer nofollow"
             className="relative mb-6 flex min-h-[122px] min-w-0 cursor-pointer 
         flex-col break-words rounded-lg border border-gray-200 p-4 shadow-md transition-all hover:-translate-y-1 
         hover:scale-105 hover:bg-border hover:shadow-lg  xl:mb-0">
