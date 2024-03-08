@@ -59,9 +59,9 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | 平台链接                              | 备注                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------ |
 | [推特](https://twitter.com/home)      | 人工智能浪潮中信息前沿                                                         |
-| [公众号]()                            |                                                                                |
-| [知识星球]()                          | 干货比较多大都会开星球                                                         |
-| [播客](https://www.xiaoyuzhoufm.com/) |                                                                                |
+| [公众号](https://mp.weixin.qq.com/)   | 微信媒体                                                                       |
+| [知识星球](https://zsxq.com/)         | 干货比较多大都会开星球，但是也有很多割韭菜的                                   |
+| [播客](https://www.xiaoyuzhoufm.com/) | 流行于欧美，音频方式分享知识                                                   |
 | [Arxiv](https://arxiv.org/)           | 开放免费的科学研究论文预印本库，主要面向物理学、数学、计算机科学、经济学等领域 |
 
 ## X（推特 twitter）
@@ -70,7 +70,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个 Twitter 排行榜列表                                                          |
 | [OpenAI](https://twitter.com/OpenAI)                               | OpenAI 官方号，发布最强 AI 模型最新消息                                          |
-| [Sam Altman](https://twitter.com/sama)                | OpenAI 创始人，YC 前主席                                                         |
+| [Sam Altman](https://twitter.com/sama)                             | OpenAI 创始人，YC 前主席                                                         |
 | [Elon Musk](https://twitter.com/elonmusk)                          | 钢铁侠马斯克                                                                     |
 | [Yann LeCun](https://twitter.com/ylecun)                           | Meta 前首席科学家                                                                |
 | [Andrej Karpathy](https://twitter.com/karpathy)                    | 前特斯拉的 AI 总监，也是 OpenAI 的创始团队成员和研究科学家                       |
@@ -89,7 +89,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [吴恩达](https://twitter.com/AndrewYNg)                            | 吴恩达， Coursera 联合创始人、斯坦福大学兼职教授、baidu AI 团队/谷歌大脑前负责人 |
 | [歸藏](https://twitter.com/op7418)                                 | 歸藏，经常分享 AI 最新资讯                                                       |
 | [Gorden Sun](https://twitter.com/Gorden_Sun)                       | 只发 AI 相关信息的产品经理，维护 AI 日报                                         |
-| [Quo Le](https://twitter.com/quocleix "@quocleix")                 | Goole 大脑首席科学家，经常分享 Google 最新研究成果                               |
+| [Quo Le](https://twitter.com/quocleix)                             | Goole 大脑首席科学家，经常分享 Google 最新研究成果                               |
 
 ## 公众号
 
