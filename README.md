@@ -50,6 +50,10 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 5. 提交并推送你的更改 - 使用 git commit 命令保存你的更改，使用 git push 将它们上传到 GitHub。
 6. 打开拉取请求 - 转到原始仓库的 "Pull Requests" 选项卡，然后点击 "New pull request"。选择你的 fork 和你在其上进行更改的分支。点击 "Create pull request"，并简短描述你的更改。
 
+当然你也可以通过下面链接来贡献你的信息源，审核过后会同步到仓库。
+
+👉 [优质AI科技资讯源提交](https://youmiais.feishu.cn/share/base/form/shrcnSO8Eh1g6krlh4iuAkMVfYg)
+
 ## 资讯平台
 
 | 平台链接                              | 备注                                                                           |
