@@ -66,7 +66,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | [Twitter threads](https://readwise.io/twitter_leaderboard?threads) | 一个 Twitter 排行榜列表                                                          |
 | [OpenAI](https://twitter.com/OpenAI)                               | OpenAI 官方号，发布最强 AI 模型最新消息                                          |
-| [Sam Altman](https://twitter.com/sama "Sam Altman")                | OpenAI 创始人，YC 前主席                                                         |
+| [Sam Altman](https://twitter.com/sama)                | OpenAI 创始人，YC 前主席                                                         |
 | [Elon Musk](https://twitter.com/elonmusk)                          | 钢铁侠马斯克                                                                     |
 | [Yann LeCun](https://twitter.com/ylecun)                           | Meta 前首席科学家                                                                |
 | [Andrej Karpathy](https://twitter.com/karpathy)                    | 前特斯拉的 AI 总监，也是 OpenAI 的创始团队成员和研究科学家                       |
