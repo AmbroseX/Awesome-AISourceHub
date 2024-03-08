@@ -14,7 +14,7 @@ export const siteConfig = {
         "一手消息",
         "前沿资讯"
     ],
-    h2_p: "学习第一步，搞定信息源, 聚合全网优质信息源",
+    h1_p: "学习第一步，搞定信息源, 聚合全网优质信息源",
     h3_p: "收集一些有观点、有干货、一手的AI 科技资讯资源，可以帮助你更好地了解和跟踪前沿一手消息,解决信息焦虑",
     h4_p1: "和人工智能、科技相关",
     h4_p2: "有干货",
@@ -25,13 +25,17 @@ export const siteConfig = {
     generator: "https://aisourcehub.info", // 想写什么就写什么，也可以不提供
     copyright: `&copy; 2024 - ${new Date().getFullYear().toString()} by AmbroseX`,
     mainNav: [],
+    submit: "https://youmiais.feishu.cn/share/base/form/shrcnSO8Eh1g6krlh4iuAkMVfYg",
     googleId: "G-DQV98M9BYP",
     baiduId: "b8c620bcdc7e56366dca8f529fddb7a2", //
     baiduVerifi: "codeva-dSoeVdJhKG",
     yandexVerifi: "0d0e0b71c05af6ae",
+    contact_p1: "欢迎关注康哥的公众号,持续更新AI开发、产品商业化日常~",
     links: {
         rss: "https://aisourcehub.info/feed.xml",
         twitter: "https://twitter.com/FlytoAGI",
+        okjk: "https://okjk.co/axwF5n",
+        github: "https://github.com/AmbroseX",
         github_web: "https://github.com/AmbroseX/Awesome-AISourceHub",
         github_collect: "https://github.com/AmbroseX/Awesome-AISourceHub",
     }

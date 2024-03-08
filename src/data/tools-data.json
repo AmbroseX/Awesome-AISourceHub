@@ -13,18 +13,18 @@
                 },
                 {
                     "category": "资讯平台",
-                    "href": "",
+                    "href": "https://mp.weixin.qq.com/",
                     "title": "公众号",
                     "is_free": null,
-                    "description": "",
+                    "description": "微信媒体",
                     "image": "https://icon.horse/icon/mp.weixin.qq.com"
                 },
                 {
                     "category": "资讯平台",
-                    "href": "",
+                    "href": "https://zsxq.com/",
                     "title": "知识星球",
                     "is_free": null,
-                    "description": "干货比较多大都会开星球",
+                    "description": "干货比较多大都会开星球，但是也有很多割韭菜的",
                     "image": "https://icon.horse/icon/zsxq.com"
                 },
                 {
@@ -32,7 +32,7 @@
                     "href": "https://www.xiaoyuzhoufm.com/",
                     "title": "播客",
                     "is_free": null,
-                    "description": "",
+                    "description": "流行于欧美，音频方式分享知识",
                     "image": "https://icon.horse/icon/www.xiaoyuzhoufm.com"
                 },
                 {
@@ -66,7 +66,7 @@
                 },
                 {
                     "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/sama \"Sam Altman\"",
+                    "href": "https://twitter.com/sama",
                     "title": "Sam Altman",
                     "is_free": null,
                     "description": "OpenAI 创始人，YC 前主席",
@@ -997,5 +997,5 @@
     ],
     "category_num": 10,
     "tools_num": 118,
-    "update_time": "2024-03-07 12:46:42"
+    "update_time": "2024-03-08 13:48:23"
 }

@@ -13,9 +13,9 @@ const ContentArea: React.FC<{
     return (
         <>
             <div className="mx-auto w-full bg-white shadow-lg rounded-lg p-6 max-w-4xl mx-auto mt-10">
-                <h2 className='mb-2 text-2xl font-bold text-primary/80 sm:text-3xl text-center'>
-                    {siteConfig.h2_p}
-                </h2>
+                <h1 className='mb-2 text-2xl font-bold text-primary/80 sm:text-3xl text-center'>
+                    {siteConfig.h1_p}
+                </h1>
                 <h3 className="mb-2 text-1xl font-bold text-primary/80 sm:text-2xl text-left px-10 py-5">
                     {siteConfig.h3_p}
                 </h3>
