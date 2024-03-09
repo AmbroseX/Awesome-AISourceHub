@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 module.exports = {
-    siteUrl: "https://aisourcehub.info",
+    siteUrl: "https://www.aisourcehub.info",
     changefreq: 'daily',
     priority: 0.7,
     sitemapSize: 14000,
