@@ -28,7 +28,7 @@ export const siteConfig = {
     submit: "https://youmiais.feishu.cn/share/base/form/shrcnSO8Eh1g6krlh4iuAkMVfYg",
     googleId: "G-DQV98M9BYP",
     baiduId: "b8c620bcdc7e56366dca8f529fddb7a2", //
-    baiduVerifi: "codeva-dSoeVdJhKG",
+    baiduVerifi: "codeva-jkSt3dLvqE", //
     yandexVerifi: "0d0e0b71c05af6ae",
     contact_p1: "欢迎关注康哥的公众号,持续更新AI开发、产品商业化日常~",
     links: {

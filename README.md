@@ -127,6 +127,8 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [AI 科技评论](https://mp.weixin.qq.com/s/Bp5aLPd0klp0IzyuzrO-hw)| CSDN 旗下的公众号,相当于是弱版的三顶会。 |
 | [将门创投](https://mp.weixin.qq.com/s/9hLM3kSvgOZXsrIaNcC94Q) | 干货较多，但更新频率不高，能有办法直接邀请论文作者做免费分享。 |
 | [强化学习实验室](https://mp.weixin.qq.com/s/0fSJa3QQ_E5PQXNlukcHsQ) | 天大郝建业老师组的知识分享平台.他们分享的论文都比较重要，他们写的帖子也非常深入浅出。输出频率不算高，但比较稳定。|
+| [硅星人Pro](https://mp.weixin.qq.com/s/QLdgjrWSRBou_7NEJGpkdg) | 会采访一些创业公司和科技公司，也分享一些 AI 相关的资讯，除了头条外另外的转载比例较高。 |
+
 
 ## 网站
 
