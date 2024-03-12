@@ -235,3 +235,10 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 ## 垂类 AI 网站
 
 ## 知识星球
+
+
+
+  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AmbroseX/Awesome-AISourceHub&type=Date)](https://star-history.com/#AmbroseX/Awesome-AISourceHub&Date)
