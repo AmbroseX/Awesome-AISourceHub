@@ -105,4 +105,4 @@ save_data = {
 
 save_json(save_data, save_json_path)
 print(f"一共有{category_num}类别")
-print(f"一共有{tools_num}个工具")
+print(f"一共有{tools_num}个信息源")

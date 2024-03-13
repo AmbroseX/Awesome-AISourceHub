@@ -178,14 +178,6 @@
                 },
                 {
                     "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/SchmidhuberAI",
-                    "title": "Jürgen Schmidhuber",
-                    "is_free": null,
-                    "description": "meta-learning (1987), GANs (1990), Transformers (1991), very deep learning (1991) 发明者",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
                     "href": "https://twitter.com/dotey",
                     "title": "宝玉",
                     "is_free": null,
@@ -230,46 +222,6 @@
                     "title": "Quo Le",
                     "is_free": null,
                     "description": "Goole 大脑首席科学家，经常分享 Google 最新研究成果",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/teslascope",
-                    "title": "Teslascope",
-                    "is_free": null,
-                    "description": "特斯拉车辆所有最新消息",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/huybery",
-                    "title": "Binyuan Hui",
-                    "is_free": null,
-                    "description": "阿里巴巴Qwen团队的NLP研究员",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/tonyzzhao",
-                    "title": "Tony Z. Zhao",
-                    "is_free": null,
-                    "description": "Meta GenAI的研究科学家",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/ericjang11",
-                    "title": "Eric Jang",
-                    "is_free": null,
-                    "description": "AI is Good for You作者",
-                    "image": "https://icon.horse/icon/twitter.com"
-                },
-                {
-                    "category": "X（推特 twitter）",
-                    "href": "https://twitter.com/zipengfu",
-                    "title": "Zipeng Fu",
-                    "is_free": null,
-                    "description": "斯坦福人工智能与机器人博士,分享从事的移动机器人最新进展",
                     "image": "https://icon.horse/icon/twitter.com"
                 }
             ]
@@ -467,14 +419,6 @@
                     "title": "强化学习实验室",
                     "is_free": null,
                     "description": "天大郝建业老师组的知识分享平台.他们分享的论文都比较重要，他们写的帖子也非常深入浅出。输出频率不算高，但比较稳定。",
-                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
-                },
-                {
-                    "category": "公众号",
-                    "href": "https://mp.weixin.qq.com/s/QLdgjrWSRBou_7NEJGpkdg",
-                    "title": "硅星人Pro",
-                    "is_free": null,
-                    "description": "会采访一些创业公司和科技公司，也分享一些 AI 相关的资讯，除了头条外另外的转载比例较高。",
                     "image": "https://icon.horse/icon/mp.weixin.qq.com"
                 }
             ]
@@ -1052,6 +996,6 @@
         }
     ],
     "category_num": 10,
-    "tools_num": 125,
-    "update_time": "2024-03-12 05:05:22"
+    "tools_num": 118,
+    "update_time": "2024-03-08 13:48:23"
 }
