@@ -146,6 +146,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 | [Futurepedia](https://www.futurepedia.io/) | AI 应用目录，每日更新。|
 | [Reddit ChatGPT](https://www.reddit.com/r/ChatGPT) | 成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者|
 | [Reddit artificial](https://www.reddit.com/r/artificial/)| Reddit 人工智能社区，73 万订阅 |
+| [GiantPandaCV](http://giantpandacv.com/) | 分享计算机视觉的干货，论文解读 |
 
 ## 播客
 
