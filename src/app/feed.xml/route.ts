@@ -1,6 +1,6 @@
-import RSS from "rss"
-import { siteConfig } from "@/config/site"
-import {toolsData} from "@/data/tools-data"
+import RSS from "rss";
+import { siteConfig } from "@/config/site";
+import { toolsData } from "@/data/tools-data";
 export async function GET() {
   const feed = new RSS({
     title: siteConfig.title,
@@ -12,13 +12,13 @@ export async function GET() {
     generator: siteConfig.generator, // 想写什么就写什么，也可以不提供
     pubDate: new Date(),
     copyright: siteConfig.copyright,
-  })
+  });
 
   const data = toolsData;
   data.forEach((tools) => {
     for (let i = 0; i < tools.data.length; i++) {
-      const category = tools.category
-      const tool = tools.data[i]
+      const category = tools.category;
+      const tool = tools.data[i];
       feed.item({
         title: tool.title,
         // category: category,
@@ -27,12 +27,13 @@ export async function GET() {
         description: tool.description,
         url: tool.href,
         date: new Date(),
-        enclosure:{
+        enclosure: {
           url: tool.image,
-          type: "image/jpeg"
-        }
-      })
-  }})
+          type: "image/jpeg",
+        },
+      });
+    }
+  });
 
   // 从数据库或者文件中获取文章列表
 
@@ -40,5 +41,5 @@ export async function GET() {
     headers: {
       "Content-Type": "application/atom+xml; charset=utf-8",
     },
-  })
+  });
 }

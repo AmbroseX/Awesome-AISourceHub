@@ -3,8 +3,8 @@
 export type ToolsInfo = {
   categoryNumber: number;
   toolsNumber: number;
-  lastUpdateTime: string
-}
+  lastUpdateTime: string;
+};
 
 export type Tool = {
   category: string;

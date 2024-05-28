@@ -13,7 +13,7 @@ function transformToolsInfo(data: any): ToolsInfo {
   return {
     categoryNumber: data.category_num,
     toolsNumber: data.tools_num,
-    lastUpdateTime: data.update_time
+    lastUpdateTime: data.update_time,
   };
 }
 export const toolsData: CategoryData[] = transformToolsData(toolsDataJson);
