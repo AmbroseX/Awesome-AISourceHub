@@ -1,642 +1,642 @@
 {
-  "tools": [
-    {
-      "category": "Web 开发模板",
-      "data": [
+    "tools": [
         {
-          "category": "Web 开发模板",
-          "href": "https://github.com/weijunext/smart-excel-ai",
-          "title": "smart-excel-ai（免费）",
-          "is_free": true,
-          "description": "Next.js。集成了登录、支付（lemon squeezy）、AI功能",
-          "image": "https://icon.horse/icon/github.com"
+            "category": "Web 开发模板",
+            "data": [
+                {
+                    "category": "Web 开发模板",
+                    "href": "https://github.com/weijunext/smart-excel-ai",
+                    "title": "smart-excel-ai（免费）",
+                    "is_free": true,
+                    "description": "Next.js。集成了登录、支付（lemon squeezy）、AI功能",
+                    "image": "https://icon.horse/icon/github.com"
+                },
+                {
+                    "category": "Web 开发模板",
+                    "href": "https://github.com/wasp-lang/open-saas/",
+                    "title": "Opensaas（免费）",
+                    "is_free": true,
+                    "description": "React + Node.js。集成了登录、支付（stripe）、邮件、AI功能",
+                    "image": "https://icon.horse/icon/github.com"
+                },
+                {
+                    "category": "Web 开发模板",
+                    "href": "https://shipfa.st/",
+                    "title": "Shipfast（付费）",
+                    "is_free": false,
+                    "description": "Next.js。集成了登录、支付（stripe）、邮件、AI功能",
+                    "image": "https://icon.horse/icon/shipfa.st"
+                }
+            ]
         },
         {
-          "category": "Web 开发模板",
-          "href": "https://github.com/wasp-lang/open-saas/",
-          "title": "Opensaas（免费）",
-          "is_free": true,
-          "description": "React + Node.js。集成了登录、支付（stripe）、邮件、AI功能",
-          "image": "https://icon.horse/icon/github.com"
+            "category": "Chrome 插件开发模板",
+            "data": [
+                {
+                    "category": "Chrome 插件开发模板",
+                    "href": "https://www.plasmo.com/",
+                    "title": "Plasmo",
+                    "is_free": null,
+                    "description": "支持 React、Vue 等多种前端框架",
+                    "image": "https://icon.horse/icon/www.plasmo.com"
+                },
+                {
+                    "category": "Chrome 插件开发模板",
+                    "href": "https://wxt.dev/",
+                    "title": "wxt.dev",
+                    "is_free": null,
+                    "description": "支持 Vue、Svelte 等多种前端框架",
+                    "image": "https://icon.horse/icon/wxt.dev"
+                }
+            ]
         },
         {
-          "category": "Web 开发模板",
-          "href": "https://shipfa.st/",
-          "title": "Shipfast（付费）",
-          "is_free": false,
-          "description": "Next.js。集成了登录、支付（stripe）、邮件、AI功能",
-          "image": "https://icon.horse/icon/shipfa.st"
+            "category": "前端",
+            "data": [
+                {
+                    "category": "前端",
+                    "href": "https://nextjs.org/)🌟 | 基于 React，附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/",
+                    "title": "Next.js",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/nextjs.org"
+                },
+                {
+                    "category": "前端",
+                    "href": "https://nuxt.com/",
+                    "title": "Nuxt",
+                    "is_free": null,
+                    "description": "基于 Vue",
+                    "image": "https://icon.horse/icon/nuxt.com"
+                }
+            ]
+        },
+        {
+            "category": "后端",
+            "data": [
+                {
+                    "category": "后端",
+                    "href": "https://docs.nestjs.com/",
+                    "title": "Nest.js",
+                    "is_free": null,
+                    "description": "基于 Node.js",
+                    "image": "https://icon.horse/icon/docs.nestjs.com"
+                },
+                {
+                    "category": "后端",
+                    "href": "https://midwayjs.org/",
+                    "title": "Midway.js",
+                    "is_free": null,
+                    "description": "基于 Node.js",
+                    "image": "https://icon.horse/icon/midwayjs.org"
+                }
+            ]
+        },
+        {
+            "category": "数据库",
+            "data": [
+                {
+                    "category": "数据库",
+                    "href": "https://www.mongodb.com/products/platform/cloud",
+                    "title": "Mongodb",
+                    "is_free": true,
+                    "description": "Mongodb 官方提供一个免费数据库",
+                    "image": "https://icon.horse/icon/www.mongodb.com"
+                },
+                {
+                    "category": "数据库",
+                    "href": "https://planetscale.com/pricing",
+                    "title": "planetscale",
+                    "is_free": true,
+                    "description": "MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月",
+                    "image": "https://icon.horse/icon/planetscale.com"
+                },
+                {
+                    "category": "数据库",
+                    "href": "https://realm.io/",
+                    "title": "Realm",
+                    "is_free": null,
+                    "description": "SQLite 的快速、可扩展的替代方案",
+                    "image": "https://icon.horse/icon/realm.io"
+                }
+            ]
+        },
+        {
+            "category": "ORM",
+            "data": [
+                {
+                    "category": "ORM",
+                    "href": "https://github.com/typeorm/typeorm",
+                    "title": "TypeORM",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/github.com"
+                }
+            ]
+        },
+        {
+            "category": "样式与UI库",
+            "data": [
+                {
+                    "category": "样式与UI库",
+                    "href": "https://www.radix-ui.com/",
+                    "title": "radix-ui",
+                    "is_free": null,
+                    "description": "提供无样式、可访问的低级组件库，可用于构建复杂的、可定制的设计系统和 web 应用程序",
+                    "image": "https://icon.horse/icon/www.radix-ui.com"
+                },
+                {
+                    "category": "样式与UI库",
+                    "href": "https://www.framer.com/motion/",
+                    "title": "Framer Motion",
+                    "is_free": null,
+                    "description": "提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果",
+                    "image": "https://icon.horse/icon/www.framer.com"
+                }
+            ]
+        },
+        {
+            "category": "原型设计",
+            "data": [
+                {
+                    "category": "原型设计",
+                    "href": "https://v0.dev/",
+                    "title": "v0",
+                    "is_free": true,
+                    "description": "Text to UI, 免费用户有 200 Credits / 每月",
+                    "image": "https://icon.horse/icon/v0.dev"
+                },
+                {
+                    "category": "原型设计",
+                    "href": "https://www.usegalileo.ai/",
+                    "title": "usegalileo",
+                    "is_free": true,
+                    "description": "Text to UI, 免费用户有 200 Credits",
+                    "image": "https://icon.horse/icon/www.usegalileo.ai"
+                },
+                {
+                    "category": "原型设计",
+                    "href": "https://github.com/Yuyz0112/vx.dev",
+                    "title": "vx.dev",
+                    "is_free": null,
+                    "description": "Text to UI, v0.dev的开源替代品",
+                    "image": "https://icon.horse/icon/github.com"
+                }
+            ]
+        },
+        {
+            "category": "登录鉴权",
+            "data": [
+                {
+                    "category": "登录鉴权",
+                    "href": "https://supabase.com/",
+                    "title": "Supabase",
+                    "is_free": null,
+                    "description": "PostgreSQL数据库、文件存储、登录鉴权",
+                    "image": "https://icon.horse/icon/supabase.com"
+                },
+                {
+                    "category": "登录鉴权",
+                    "href": "https://github.com/lucia-auth/lucia",
+                    "title": "Lucia",
+                    "is_free": null,
+                    "description": "登录鉴权",
+                    "image": "https://icon.horse/icon/github.com"
+                },
+                {
+                    "category": "登录鉴权",
+                    "href": "https://next-auth.js.org/",
+                    "title": "Next-Auth v4",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/next-auth.js.org"
+                },
+                {
+                    "category": "登录鉴权",
+                    "href": "https://authjs.dev/getting-started/introduction",
+                    "title": "Next-Auth v5",
+                    "is_free": null,
+                    "description": "v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide)",
+                    "image": "https://icon.horse/icon/authjs.dev"
+                },
+                {
+                    "category": "登录鉴权",
+                    "href": "https://github.com/logto-io/logto",
+                    "title": "Logto",
+                    "is_free": null,
+                    "description": "登录鉴权，有云端版和开源的私有化部署版",
+                    "image": "https://icon.horse/icon/github.com"
+                }
+            ]
+        },
+        {
+            "category": "支付",
+            "data": [
+                {
+                    "category": "支付",
+                    "href": "https://stripe.com/",
+                    "title": "Stripe",
+                    "is_free": null,
+                    "description": "需要企业资质",
+                    "image": "https://icon.horse/icon/stripe.com"
+                }
+            ]
+        },
+        {
+            "category": "邮件",
+            "data": [
+                {
+                    "category": "邮件",
+                    "href": "https://resend.com/",
+                    "title": "Resend",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/resend.com"
+                },
+                {
+                    "category": "邮件",
+                    "href": "https://github.com/nodemailer/nodemailer",
+                    "title": "Nodemailer",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/github.com"
+                },
+                {
+                    "category": "邮件",
+                    "href": "https://react.email/",
+                    "title": "React Mail",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/react.email"
+                }
+            ]
+        },
+        {
+            "category": "网站分析",
+            "data": [
+                {
+                    "category": "网站分析",
+                    "href": "https://analytics.google.com/analytics/web/",
+                    "title": "Google Analytics",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/analytics.google.com"
+                },
+                {
+                    "category": "网站分析",
+                    "href": " https://plausible.io",
+                    "title": "Plausible",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/plausible.io"
+                },
+                {
+                    "category": "网站分析",
+                    "href": "https://umami.is/",
+                    "title": "Umami",
+                    "is_free": null,
+                    "description": "开源可自部署",
+                    "image": "https://icon.horse/icon/umami.is"
+                },
+                {
+                    "category": "网站分析",
+                    "href": "https://clarity.microsoft.com/",
+                    "title": "Clarity",
+                    "is_free": null,
+                    "description": "微软出的分析工具",
+                    "image": "https://icon.horse/icon/clarity.microsoft.com"
+                }
+            ]
+        },
+        {
+            "category": "在线客服",
+            "data": [
+                {
+                    "category": "在线客服",
+                    "href": "https://tawk.to/",
+                    "title": "Tawk",
+                    "is_free": null,
+                    "description": "中国地区可注册",
+                    "image": "https://icon.horse/icon/tawk.to"
+                }
+            ]
+        },
+        {
+            "category": "部署与托管",
+            "data": [
+                {
+                    "category": "部署与托管",
+                    "href": "https://aircode.io/",
+                    "title": "Aircode",
+                    "is_free": null,
+                    "description": "字节跳动出品",
+                    "image": "https://icon.horse/icon/aircode.io"
+                },
+                {
+                    "category": "部署与托管",
+                    "href": "https://zeabur.com/",
+                    "title": "Zeabur",
+                    "is_free": null,
+                    "description": "国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe)",
+                    "image": "https://icon.horse/icon/zeabur.com"
+                },
+                {
+                    "category": "部署与托管",
+                    "href": "https://railway.app/",
+                    "title": "Railway",
+                    "is_free": null,
+                    "description": "国内也可直接访问",
+                    "image": "https://icon.horse/icon/railway.app"
+                },
+                {
+                    "category": "部署与托管",
+                    "href": "https://pages.github.com/",
+                    "title": "Github Pages",
+                    "is_free": true,
+                    "description": "免费",
+                    "image": "https://icon.horse/icon/pages.github.com"
+                },
+                {
+                    "category": "部署与托管",
+                    "href": "https://developers.cloudflare.com/pages/",
+                    "title": "Cloudflare Pages",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/developers.cloudflare.com"
+                }
+            ]
+        },
+        {
+            "category": "域名购买",
+            "data": [
+                {
+                    "category": "域名购买",
+                    "href": "https://www.namecheap.com/",
+                    "title": "Namecheap",
+                    "is_free": null,
+                    "description": "据说比较便宜",
+                    "image": "https://icon.horse/icon/www.namecheap.com"
+                },
+                {
+                    "category": "域名购买",
+                    "href": "https://www.godaddy.com/",
+                    "title": "Godaddy",
+                    "is_free": null,
+                    "description": "狗爹，懂的都懂",
+                    "image": "https://icon.horse/icon/www.godaddy.com"
+                },
+                {
+                    "category": "域名购买",
+                    "href": "https://cloudflare.com/",
+                    "title": "Cloudflare",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/cloudflare.com"
+                },
+                {
+                    "category": "域名购买",
+                    "href": "https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service",
+                    "title": "阿里云",
+                    "is_free": null,
+                    "description": "国内平台，cn域名首选平台",
+                    "image": "https://icon.horse/icon/wanwang.aliyun.com"
+                }
+            ]
+        },
+        {
+            "category": "文档管理",
+            "data": [
+                {
+                    "category": "文档管理",
+                    "href": "https://notion.so/",
+                    "title": "Notion",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/notion.so"
+                },
+                {
+                    "category": "文档管理",
+                    "href": "https://vitepress.vuejs.org/",
+                    "title": "VitePress",
+                    "is_free": null,
+                    "description": "Vite & Vue 驱动的静态站点生成器",
+                    "image": "https://icon.horse/icon/vitepress.vuejs.org"
+                },
+                {
+                    "category": "文档管理",
+                    "href": "https://starlight.astro.build/",
+                    "title": "Astro Starlight",
+                    "is_free": null,
+                    "description": "建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv)",
+                    "image": "https://icon.horse/icon/starlight.astro.build"
+                }
+            ]
+        },
+        {
+            "category": "logo",
+            "data": [
+                {
+                    "category": "logo",
+                    "href": "https://iconbuddy.app/logo-maker",
+                    "title": "iconbuddy",
+                    "is_free": null,
+                    "description": "logo 设计",
+                    "image": "https://icon.horse/icon/iconbuddy.app"
+                },
+                {
+                    "category": "logo",
+                    "href": "https://icon.ray.so/",
+                    "title": "iconray",
+                    "is_free": null,
+                    "description": "logo 设计",
+                    "image": "https://icon.horse/icon/icon.ray.so"
+                },
+                {
+                    "category": "logo",
+                    "href": "https://icon.horse/",
+                    "title": "icon horse",
+                    "is_free": null,
+                    "description": "logo 探测",
+                    "image": "https://icon.horse/icon/icon.horse"
+                },
+                {
+                    "category": "logo",
+                    "href": "https://realfavicongenerator.net/",
+                    "title": "favicon generator",
+                    "is_free": null,
+                    "description": "生成多平台多种类logo(ico、PNG、SVG)",
+                    "image": "https://icon.horse/icon/realfavicongenerator.net"
+                },
+                {
+                    "category": "logo",
+                    "href": "https://www.bitbug.net/",
+                    "title": "big bug",
+                    "is_free": null,
+                    "description": "PNG/JPG 转 ico",
+                    "image": "https://icon.horse/icon/www.bitbug.net"
+                }
+            ]
+        },
+        {
+            "category": "图标库",
+            "data": [
+                {
+                    "category": "图标库",
+                    "href": "https://iconbuddy.app/",
+                    "title": "iconbuddy",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/iconbuddy.app"
+                },
+                {
+                    "category": "图标库",
+                    "href": "https://fontawesome.com/icons",
+                    "title": "fontawesome",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/fontawesome.com"
+                },
+                {
+                    "category": "图标库",
+                    "href": "https://www.mingcute.com/",
+                    "title": "MingCute",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/www.mingcute.com"
+                },
+                {
+                    "category": "图标库",
+                    "href": "https://iconify.design/",
+                    "title": "iconify",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/iconify.design"
+                }
+            ]
+        },
+        {
+            "category": "图片视频素材",
+            "data": [
+                {
+                    "category": "图片视频素材",
+                    "href": "https://vectorove.com/",
+                    "title": "vectorove",
+                    "is_free": true,
+                    "description": "完全免费，风格统一的插画库，支持预定义颜色以及png和svg格式导出",
+                    "image": "https://icon.horse/icon/vectorove.com"
+                }
+            ]
+        },
+        {
+            "category": "图片视频处理工具",
+            "data": [
+                {
+                    "category": "图片视频处理工具",
+                    "href": "https://tinypng.com/",
+                    "title": "Tinypng",
+                    "is_free": null,
+                    "description": "图片压缩",
+                    "image": "https://icon.horse/icon/tinypng.com"
+                },
+                {
+                    "category": "图片视频处理工具",
+                    "href": "https://tinify.cn/",
+                    "title": "Tinify",
+                    "is_free": null,
+                    "description": "图片压缩 - 国内版",
+                    "image": "https://icon.horse/icon/tinify.cn"
+                },
+                {
+                    "category": "图片视频处理工具",
+                    "href": "https://ezgif.com/video-to-gif",
+                    "title": "video-to-gif",
+                    "is_free": null,
+                    "description": "视频转 GIF",
+                    "image": "https://icon.horse/icon/ezgif.com"
+                }
+            ]
+        },
+        {
+            "category": "录屏",
+            "data": [
+                {
+                    "category": "录屏",
+                    "href": "https://gemoo.com/focusee/",
+                    "title": "focusee",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/gemoo.com"
+                },
+                {
+                    "category": "录屏",
+                    "href": "https://www.screen.studio",
+                    "title": "Screen Studio",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/www.screen.studio"
+                },
+                {
+                    "category": "录屏",
+                    "href": "https://obsproject.com/",
+                    "title": "OBS Studio",
+                    "is_free": null,
+                    "description": "开源、windows、mac、linux",
+                    "image": "https://icon.horse/icon/obsproject.com"
+                }
+            ]
+        },
+        {
+            "category": "短链",
+            "data": [
+                {
+                    "category": "短链",
+                    "href": "https://github.com/dubinc/dub",
+                    "title": "dub",
+                    "is_free": true,
+                    "description": "免费用户每个月可以创建25个链接",
+                    "image": "https://icon.horse/icon/github.com"
+                }
+            ]
+        },
+        {
+            "category": "信息渠道",
+            "data": [
+                {
+                    "category": "信息渠道",
+                    "href": "https://www.producthunt.com/",
+                    "title": "Product Hunt",
+                    "is_free": null,
+                    "description": "新产品打榜聚集地",
+                    "image": "https://icon.horse/icon/www.producthunt.com"
+                },
+                {
+                    "category": "信息渠道",
+                    "href": "https://news.ycombinator.com/",
+                    "title": "Hacker News",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/news.ycombinator.com"
+                },
+                {
+                    "category": "信息渠道",
+                    "href": "https://www.indiehackers.com/",
+                    "title": "Indie Hackers",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/www.indiehackers.com"
+                },
+                {
+                    "category": "信息渠道",
+                    "href": "https://w2solo.com/",
+                    "title": "w2solo",
+                    "is_free": null,
+                    "description": "中文独立开发者社区",
+                    "image": "https://icon.horse/icon/w2solo.com"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "category": "Chrome 插件开发模板",
-      "data": [
-        {
-          "category": "Chrome 插件开发模板",
-          "href": "https://www.plasmo.com/",
-          "title": "Plasmo",
-          "is_free": null,
-          "description": "支持 React、Vue 等多种前端框架",
-          "image": "https://icon.horse/icon/www.plasmo.com"
-        },
-        {
-          "category": "Chrome 插件开发模板",
-          "href": "https://wxt.dev/",
-          "title": "wxt.dev",
-          "is_free": null,
-          "description": "支持 Vue、Svelte 等多种前端框架",
-          "image": "https://icon.horse/icon/wxt.dev"
-        }
-      ]
-    },
-    {
-      "category": "前端",
-      "data": [
-        {
-          "category": "前端",
-          "href": "https://nextjs.org/)🌟 | 基于 React，附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/",
-          "title": "Next.js",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/nextjs.org"
-        },
-        {
-          "category": "前端",
-          "href": "https://nuxt.com/",
-          "title": "Nuxt",
-          "is_free": null,
-          "description": "基于 Vue",
-          "image": "https://icon.horse/icon/nuxt.com"
-        }
-      ]
-    },
-    {
-      "category": "后端",
-      "data": [
-        {
-          "category": "后端",
-          "href": "https://docs.nestjs.com/",
-          "title": "Nest.js",
-          "is_free": null,
-          "description": "基于 Node.js",
-          "image": "https://icon.horse/icon/docs.nestjs.com"
-        },
-        {
-          "category": "后端",
-          "href": "https://midwayjs.org/",
-          "title": "Midway.js",
-          "is_free": null,
-          "description": "基于 Node.js",
-          "image": "https://icon.horse/icon/midwayjs.org"
-        }
-      ]
-    },
-    {
-      "category": "数据库",
-      "data": [
-        {
-          "category": "数据库",
-          "href": "https://www.mongodb.com/products/platform/cloud",
-          "title": "Mongodb",
-          "is_free": true,
-          "description": "Mongodb 官方提供一个免费数据库",
-          "image": "https://icon.horse/icon/www.mongodb.com"
-        },
-        {
-          "category": "数据库",
-          "href": "https://planetscale.com/pricing",
-          "title": "planetscale",
-          "is_free": true,
-          "description": "MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月",
-          "image": "https://icon.horse/icon/planetscale.com"
-        },
-        {
-          "category": "数据库",
-          "href": "https://realm.io/",
-          "title": "Realm",
-          "is_free": null,
-          "description": "SQLite 的快速、可扩展的替代方案",
-          "image": "https://icon.horse/icon/realm.io"
-        }
-      ]
-    },
-    {
-      "category": "ORM",
-      "data": [
-        {
-          "category": "ORM",
-          "href": "https://github.com/typeorm/typeorm",
-          "title": "TypeORM",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/github.com"
-        }
-      ]
-    },
-    {
-      "category": "样式与UI库",
-      "data": [
-        {
-          "category": "样式与UI库",
-          "href": "https://www.radix-ui.com/",
-          "title": "radix-ui",
-          "is_free": null,
-          "description": "提供无样式、可访问的低级组件库，可用于构建复杂的、可定制的设计系统和 web 应用程序",
-          "image": "https://icon.horse/icon/www.radix-ui.com"
-        },
-        {
-          "category": "样式与UI库",
-          "href": "https://www.framer.com/motion/",
-          "title": "Framer Motion",
-          "is_free": null,
-          "description": "提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果",
-          "image": "https://icon.horse/icon/www.framer.com"
-        }
-      ]
-    },
-    {
-      "category": "原型设计",
-      "data": [
-        {
-          "category": "原型设计",
-          "href": "https://v0.dev/",
-          "title": "v0",
-          "is_free": true,
-          "description": "Text to UI, 免费用户有 200 Credits / 每月",
-          "image": "https://icon.horse/icon/v0.dev"
-        },
-        {
-          "category": "原型设计",
-          "href": "https://www.usegalileo.ai/",
-          "title": "usegalileo",
-          "is_free": true,
-          "description": "Text to UI, 免费用户有 200 Credits",
-          "image": "https://icon.horse/icon/www.usegalileo.ai"
-        },
-        {
-          "category": "原型设计",
-          "href": "https://github.com/Yuyz0112/vx.dev",
-          "title": "vx.dev",
-          "is_free": null,
-          "description": "Text to UI, v0.dev的开源替代品",
-          "image": "https://icon.horse/icon/github.com"
-        }
-      ]
-    },
-    {
-      "category": "登录鉴权",
-      "data": [
-        {
-          "category": "登录鉴权",
-          "href": "https://supabase.com/",
-          "title": "Supabase",
-          "is_free": null,
-          "description": "PostgreSQL数据库、文件存储、登录鉴权",
-          "image": "https://icon.horse/icon/supabase.com"
-        },
-        {
-          "category": "登录鉴权",
-          "href": "https://github.com/lucia-auth/lucia",
-          "title": "Lucia",
-          "is_free": null,
-          "description": "登录鉴权",
-          "image": "https://icon.horse/icon/github.com"
-        },
-        {
-          "category": "登录鉴权",
-          "href": "https://next-auth.js.org/",
-          "title": "Next-Auth v4",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/next-auth.js.org"
-        },
-        {
-          "category": "登录鉴权",
-          "href": "https://authjs.dev/getting-started/introduction",
-          "title": "Next-Auth v5",
-          "is_free": null,
-          "description": "v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide)",
-          "image": "https://icon.horse/icon/authjs.dev"
-        },
-        {
-          "category": "登录鉴权",
-          "href": "https://github.com/logto-io/logto",
-          "title": "Logto",
-          "is_free": null,
-          "description": "登录鉴权，有云端版和开源的私有化部署版",
-          "image": "https://icon.horse/icon/github.com"
-        }
-      ]
-    },
-    {
-      "category": "支付",
-      "data": [
-        {
-          "category": "支付",
-          "href": "https://stripe.com/",
-          "title": "Stripe",
-          "is_free": null,
-          "description": "需要企业资质",
-          "image": "https://icon.horse/icon/stripe.com"
-        }
-      ]
-    },
-    {
-      "category": "邮件",
-      "data": [
-        {
-          "category": "邮件",
-          "href": "https://resend.com/",
-          "title": "Resend",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/resend.com"
-        },
-        {
-          "category": "邮件",
-          "href": "https://github.com/nodemailer/nodemailer",
-          "title": "Nodemailer",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/github.com"
-        },
-        {
-          "category": "邮件",
-          "href": "https://react.email/",
-          "title": "React Mail",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/react.email"
-        }
-      ]
-    },
-    {
-      "category": "网站分析",
-      "data": [
-        {
-          "category": "网站分析",
-          "href": "https://analytics.google.com/analytics/web/",
-          "title": "Google Analytics",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/analytics.google.com"
-        },
-        {
-          "category": "网站分析",
-          "href": " https://plausible.io",
-          "title": "Plausible",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/plausible.io"
-        },
-        {
-          "category": "网站分析",
-          "href": "https://umami.is/",
-          "title": "Umami",
-          "is_free": null,
-          "description": "开源可自部署",
-          "image": "https://icon.horse/icon/umami.is"
-        },
-        {
-          "category": "网站分析",
-          "href": "https://clarity.microsoft.com/",
-          "title": "Clarity",
-          "is_free": null,
-          "description": "微软出的分析工具",
-          "image": "https://icon.horse/icon/clarity.microsoft.com"
-        }
-      ]
-    },
-    {
-      "category": "在线客服",
-      "data": [
-        {
-          "category": "在线客服",
-          "href": "https://tawk.to/",
-          "title": "Tawk",
-          "is_free": null,
-          "description": "中国地区可注册",
-          "image": "https://icon.horse/icon/tawk.to"
-        }
-      ]
-    },
-    {
-      "category": "部署与托管",
-      "data": [
-        {
-          "category": "部署与托管",
-          "href": "https://aircode.io/",
-          "title": "Aircode",
-          "is_free": null,
-          "description": "字节跳动出品",
-          "image": "https://icon.horse/icon/aircode.io"
-        },
-        {
-          "category": "部署与托管",
-          "href": "https://zeabur.com/",
-          "title": "Zeabur",
-          "is_free": null,
-          "description": "国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe)",
-          "image": "https://icon.horse/icon/zeabur.com"
-        },
-        {
-          "category": "部署与托管",
-          "href": "https://railway.app/",
-          "title": "Railway",
-          "is_free": null,
-          "description": "国内也可直接访问",
-          "image": "https://icon.horse/icon/railway.app"
-        },
-        {
-          "category": "部署与托管",
-          "href": "https://pages.github.com/",
-          "title": "Github Pages",
-          "is_free": true,
-          "description": "免费",
-          "image": "https://icon.horse/icon/pages.github.com"
-        },
-        {
-          "category": "部署与托管",
-          "href": "https://developers.cloudflare.com/pages/",
-          "title": "Cloudflare Pages",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/developers.cloudflare.com"
-        }
-      ]
-    },
-    {
-      "category": "域名购买",
-      "data": [
-        {
-          "category": "域名购买",
-          "href": "https://www.namecheap.com/",
-          "title": "Namecheap",
-          "is_free": null,
-          "description": "据说比较便宜",
-          "image": "https://icon.horse/icon/www.namecheap.com"
-        },
-        {
-          "category": "域名购买",
-          "href": "https://www.godaddy.com/",
-          "title": "Godaddy",
-          "is_free": null,
-          "description": "狗爹，懂的都懂",
-          "image": "https://icon.horse/icon/www.godaddy.com"
-        },
-        {
-          "category": "域名购买",
-          "href": "https://cloudflare.com/",
-          "title": "Cloudflare",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/cloudflare.com"
-        },
-        {
-          "category": "域名购买",
-          "href": "https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service",
-          "title": "阿里云",
-          "is_free": null,
-          "description": "国内平台，cn域名首选平台",
-          "image": "https://icon.horse/icon/wanwang.aliyun.com"
-        }
-      ]
-    },
-    {
-      "category": "文档管理",
-      "data": [
-        {
-          "category": "文档管理",
-          "href": "https://notion.so/",
-          "title": "Notion",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/notion.so"
-        },
-        {
-          "category": "文档管理",
-          "href": "https://vitepress.vuejs.org/",
-          "title": "VitePress",
-          "is_free": null,
-          "description": "Vite & Vue 驱动的静态站点生成器",
-          "image": "https://icon.horse/icon/vitepress.vuejs.org"
-        },
-        {
-          "category": "文档管理",
-          "href": "https://starlight.astro.build/",
-          "title": "Astro Starlight",
-          "is_free": null,
-          "description": "建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv)",
-          "image": "https://icon.horse/icon/starlight.astro.build"
-        }
-      ]
-    },
-    {
-      "category": "logo",
-      "data": [
-        {
-          "category": "logo",
-          "href": "https://iconbuddy.app/logo-maker",
-          "title": "iconbuddy",
-          "is_free": null,
-          "description": "logo 设计",
-          "image": "https://icon.horse/icon/iconbuddy.app"
-        },
-        {
-          "category": "logo",
-          "href": "https://icon.ray.so/",
-          "title": "iconray",
-          "is_free": null,
-          "description": "logo 设计",
-          "image": "https://icon.horse/icon/icon.ray.so"
-        },
-        {
-          "category": "logo",
-          "href": "https://icon.horse/",
-          "title": "icon horse",
-          "is_free": null,
-          "description": "logo 探测",
-          "image": "https://icon.horse/icon/icon.horse"
-        },
-        {
-          "category": "logo",
-          "href": "https://realfavicongenerator.net/",
-          "title": "favicon generator",
-          "is_free": null,
-          "description": "生成多平台多种类logo(ico、PNG、SVG)",
-          "image": "https://icon.horse/icon/realfavicongenerator.net"
-        },
-        {
-          "category": "logo",
-          "href": "https://www.bitbug.net/",
-          "title": "big bug",
-          "is_free": null,
-          "description": "PNG/JPG 转 ico",
-          "image": "https://icon.horse/icon/www.bitbug.net"
-        }
-      ]
-    },
-    {
-      "category": "图标库",
-      "data": [
-        {
-          "category": "图标库",
-          "href": "https://iconbuddy.app/",
-          "title": "iconbuddy",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/iconbuddy.app"
-        },
-        {
-          "category": "图标库",
-          "href": "https://fontawesome.com/icons",
-          "title": "fontawesome",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/fontawesome.com"
-        },
-        {
-          "category": "图标库",
-          "href": "https://www.mingcute.com/",
-          "title": "MingCute",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/www.mingcute.com"
-        },
-        {
-          "category": "图标库",
-          "href": "https://iconify.design/",
-          "title": "iconify",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/iconify.design"
-        }
-      ]
-    },
-    {
-      "category": "图片视频素材",
-      "data": [
-        {
-          "category": "图片视频素材",
-          "href": "https://vectorove.com/",
-          "title": "vectorove",
-          "is_free": true,
-          "description": "完全免费，风格统一的插画库，支持预定义颜色以及png和svg格式导出",
-          "image": "https://icon.horse/icon/vectorove.com"
-        }
-      ]
-    },
-    {
-      "category": "图片视频处理工具",
-      "data": [
-        {
-          "category": "图片视频处理工具",
-          "href": "https://tinypng.com/",
-          "title": "Tinypng",
-          "is_free": null,
-          "description": "图片压缩",
-          "image": "https://icon.horse/icon/tinypng.com"
-        },
-        {
-          "category": "图片视频处理工具",
-          "href": "https://tinify.cn/",
-          "title": "Tinify",
-          "is_free": null,
-          "description": "图片压缩 - 国内版",
-          "image": "https://icon.horse/icon/tinify.cn"
-        },
-        {
-          "category": "图片视频处理工具",
-          "href": "https://ezgif.com/video-to-gif",
-          "title": "video-to-gif",
-          "is_free": null,
-          "description": "视频转 GIF",
-          "image": "https://icon.horse/icon/ezgif.com"
-        }
-      ]
-    },
-    {
-      "category": "录屏",
-      "data": [
-        {
-          "category": "录屏",
-          "href": "https://gemoo.com/focusee/",
-          "title": "focusee",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/gemoo.com"
-        },
-        {
-          "category": "录屏",
-          "href": "https://www.screen.studio",
-          "title": "Screen Studio",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/www.screen.studio"
-        },
-        {
-          "category": "录屏",
-          "href": "https://obsproject.com/",
-          "title": "OBS Studio",
-          "is_free": null,
-          "description": "开源、windows、mac、linux",
-          "image": "https://icon.horse/icon/obsproject.com"
-        }
-      ]
-    },
-    {
-      "category": "短链",
-      "data": [
-        {
-          "category": "短链",
-          "href": "https://github.com/dubinc/dub",
-          "title": "dub",
-          "is_free": true,
-          "description": "免费用户每个月可以创建25个链接",
-          "image": "https://icon.horse/icon/github.com"
-        }
-      ]
-    },
-    {
-      "category": "信息渠道",
-      "data": [
-        {
-          "category": "信息渠道",
-          "href": "https://www.producthunt.com/",
-          "title": "Product Hunt",
-          "is_free": null,
-          "description": "新产品打榜聚集地",
-          "image": "https://icon.horse/icon/www.producthunt.com"
-        },
-        {
-          "category": "信息渠道",
-          "href": "https://news.ycombinator.com/",
-          "title": "Hacker News",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/news.ycombinator.com"
-        },
-        {
-          "category": "信息渠道",
-          "href": "https://www.indiehackers.com/",
-          "title": "Indie Hackers",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/www.indiehackers.com"
-        },
-        {
-          "category": "信息渠道",
-          "href": "https://w2solo.com/",
-          "title": "w2solo",
-          "is_free": null,
-          "description": "中文独立开发者社区",
-          "image": "https://icon.horse/icon/w2solo.com"
-        }
-      ]
-    }
-  ],
-  "category_num": 23,
-  "tools_num": 65,
-  "update_time": "2024-03-04 02:53:33"
+    ],
+    "category_num": 23,
+    "tools_num": 65,
+    "update_time": "2024-03-04 02:53:33"
 }

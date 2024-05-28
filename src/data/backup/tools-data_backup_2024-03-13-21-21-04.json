@@ -1,1001 +1,1001 @@
 {
-  "tools": [
-    {
-      "category": "资讯平台",
-      "data": [
+    "tools": [
         {
-          "category": "资讯平台",
-          "href": "https://twitter.com/home",
-          "title": "推特",
-          "is_free": null,
-          "description": "人工智能浪潮中信息前沿",
-          "image": "https://icon.horse/icon/twitter.com"
+            "category": "资讯平台",
+            "data": [
+                {
+                    "category": "资讯平台",
+                    "href": "https://twitter.com/home",
+                    "title": "推特",
+                    "is_free": null,
+                    "description": "人工智能浪潮中信息前沿",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "资讯平台",
+                    "href": "https://mp.weixin.qq.com/",
+                    "title": "公众号",
+                    "is_free": null,
+                    "description": "微信媒体",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "资讯平台",
+                    "href": "https://zsxq.com/",
+                    "title": "知识星球",
+                    "is_free": null,
+                    "description": "干货比较多大都会开星球，但是也有很多割韭菜的",
+                    "image": "https://icon.horse/icon/zsxq.com"
+                },
+                {
+                    "category": "资讯平台",
+                    "href": "https://www.xiaoyuzhoufm.com/",
+                    "title": "播客",
+                    "is_free": null,
+                    "description": "流行于欧美，音频方式分享知识",
+                    "image": "https://icon.horse/icon/www.xiaoyuzhoufm.com"
+                },
+                {
+                    "category": "资讯平台",
+                    "href": "https://arxiv.org/",
+                    "title": "Arxiv",
+                    "is_free": true,
+                    "description": "开放免费的科学研究论文预印本库，主要面向物理学、数学、计算机科学、经济学等领域",
+                    "image": "https://icon.horse/icon/arxiv.org"
+                }
+            ]
         },
         {
-          "category": "资讯平台",
-          "href": "https://mp.weixin.qq.com/",
-          "title": "公众号",
-          "is_free": null,
-          "description": "微信媒体",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
+            "category": "X（推特 twitter）",
+            "data": [
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://readwise.io/twitter_leaderboard?threads",
+                    "title": "Twitter threads",
+                    "is_free": null,
+                    "description": "一个 Twitter 排行榜列表",
+                    "image": "https://icon.horse/icon/readwise.io"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/OpenAI",
+                    "title": "OpenAI",
+                    "is_free": null,
+                    "description": "OpenAI 官方号，发布最强 AI 模型最新消息",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/sama",
+                    "title": "Sam Altman",
+                    "is_free": null,
+                    "description": "OpenAI 创始人，YC 前主席",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/elonmusk",
+                    "title": "Elon Musk",
+                    "is_free": null,
+                    "description": "钢铁侠马斯克",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/ylecun",
+                    "title": "Yann LeCun",
+                    "is_free": null,
+                    "description": "Meta 前首席科学家",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/karpathy",
+                    "title": "Andrej Karpathy",
+                    "is_free": null,
+                    "description": "前特斯拉的 AI 总监，也是 OpenAI 的创始团队成员和研究科学家",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/fchollet",
+                    "title": "François Chollet",
+                    "is_free": null,
+                    "description": "推特界最会研究人工智能的一位网红科学家，Keras 创始人",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/drfeifei",
+                    "title": "李飞飞",
+                    "is_free": null,
+                    "description": "是斯坦福大学人工智能实验室的主任，她是计算机视觉和人工智能领域的领先专家之一",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/soumithchintala",
+                    "title": "Soumith Chintala",
+                    "is_free": null,
+                    "description": "FAIR 研究工程师、深度学习框架 PyTorch 创建者之一",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/rasbt",
+                    "title": "Sebastian Raschka",
+                    "is_free": null,
+                    "description": "经常分享论文解读",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/ClementDelangue",
+                    "title": "clem",
+                    "is_free": null,
+                    "description": "HuggingFace 创始人兼 CEO",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/sirbayes",
+                    "title": "Kevin Patrick Murphy",
+                    "is_free": null,
+                    "description": "谷歌大脑/深度学习的研究科学家。",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/markchen90",
+                    "title": "Mark Chen",
+                    "is_free": null,
+                    "description": "OpenAI 的研究部门负责人",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/cmikeh2",
+                    "title": "Connor Holmes",
+                    "is_free": null,
+                    "description": "Sora 系统领导",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/_tim_brooks",
+                    "title": "Tim Brooks",
+                    "is_free": null,
+                    "description": "Sora 研究领导",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/_akhaliq",
+                    "title": "AK",
+                    "is_free": null,
+                    "description": "知名博主",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/dotey",
+                    "title": "宝玉",
+                    "is_free": null,
+                    "description": "推特宝玉老师，知名博主",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/DrJimFan",
+                    "title": "Jim Fan",
+                    "is_free": null,
+                    "description": "Jim Fan, Nvidia 的科学家，经常分享 AI 相关",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/AndrewYNg",
+                    "title": "吴恩达",
+                    "is_free": null,
+                    "description": "吴恩达， Coursera 联合创始人、斯坦福大学兼职教授、baidu AI 团队/谷歌大脑前负责人",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/op7418",
+                    "title": "歸藏",
+                    "is_free": null,
+                    "description": "歸藏，经常分享 AI 最新资讯",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/Gorden_Sun",
+                    "title": "Gorden Sun",
+                    "is_free": null,
+                    "description": "只发 AI 相关信息的产品经理，维护 AI 日报",
+                    "image": "https://icon.horse/icon/twitter.com"
+                },
+                {
+                    "category": "X（推特 twitter）",
+                    "href": "https://twitter.com/quocleix",
+                    "title": "Quo Le",
+                    "is_free": null,
+                    "description": "Goole 大脑首席科学家，经常分享 Google 最新研究成果",
+                    "image": "https://icon.horse/icon/twitter.com"
+                }
+            ]
         },
         {
-          "category": "资讯平台",
-          "href": "https://zsxq.com/",
-          "title": "知识星球",
-          "is_free": null,
-          "description": "干货比较多大都会开星球，但是也有很多割韭菜的",
-          "image": "https://icon.horse/icon/zsxq.com"
+            "category": "公众号",
+            "data": [
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/0XOBiRjjTR8KZIB5eRxS5g",
+                    "title": "42 章经",
+                    "is_free": null,
+                    "description": "直接访谈 AI 领域最一线的大佬，纯干货",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=1610828918314319873&scene=126&sessionid=249306691#wechat_redirect",
+                    "title": "机器人大讲堂",
+                    "is_free": null,
+                    "description": "清华孙富春老师团队维护的平台，机器人必关注，干货多，软广少。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/feScEzzUG44JbiuTCvZG6Q",
+                    "title": "九章智驾",
+                    "is_free": null,
+                    "description": "自动驾驶领域的“顶会”",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g",
+                    "title": "我爱计算机视觉",
+                    "is_free": null,
+                    "description": "主要会介绍一些最新论文解读。也有一些软广",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/wZApA2MpnymBQ22Gqs93lQ",
+                    "title": "量子位",
+                    "is_free": null,
+                    "description": "别管什么标题党，分享一些最新的比较火的资讯",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/TyevzSaWihfxRA4ZZ0F1fg",
+                    "title": "机器之心",
+                    "is_free": null,
+                    "description": "别管什么标题党，分享一些最新的比较火的资讯",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/WqQWS-hiQ1i1Ve6IPH3djw",
+                    "title": "新智元",
+                    "is_free": null,
+                    "description": "别管什么标题党，分享一些最新的比较火的资讯",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/3jctCVGpBXegwQgS5YLjvQ",
+                    "title": "Alwalker",
+                    "is_free": null,
+                    "description": "cv 相关的论文分享，干货比例高。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/OWlM1a_7lbbhgVAuUOu_mQ",
+                    "title": "cver",
+                    "is_free": null,
+                    "description": "论文解读，开星球了，软广多。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/GxpZRfPgYFdNomGtFjLifA",
+                    "title": "计算机视觉 life",
+                    "is_free": null,
+                    "description": "主要是自动驾驶,也开星球了，软广多",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/_u_QrjxF3M7Wk-gHKysiHQ",
+                    "title": "游戏葡萄",
+                    "is_free": null,
+                    "description": "游戏领域:干货比较多，平台能接触到很多一线大厂的资源。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/RPzuppX1Q13tFVum9aSZSA",
+                    "title": "老刘说 NLP",
+                    "is_free": false,
+                    "description": "原创干货比较多，少量付费，以及会维护一个付费社群，作者本身就是知识图谱和 NLP 专业出身，目前在 360 工作，所以信息量比营销号会好不少。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/2ZFsvr80AxvpJIWQ2YHJwg",
+                    "title": "JioNLP",
+                    "is_free": null,
+                    "description": "作者目前在昆仑万维 LLM 团队，喜欢开源，喜欢分享各种 AI 知识，干货比例会比较高。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ",
+                    "title": "NewBeeNLP",
+                    "is_free": false,
+                    "description": "nlp 相关内容，最新学术、技术贴，以及一些付费知识，广告。公众号的生态是这样的。大家按需关注。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/K5Hf2k6PXPLIq1DaQCWKag",
+                    "title": "GithubDaily",
+                    "is_free": false,
+                    "description": "会介绍一些 Github 热门的项目，现在主要是 LLM 相关的内容，有点标题党，有广告，有知识星球付费。大家按需关注。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/9_GKQUIYujIj2xcJ45fM4g",
+                    "title": "夕小瑶科技说",
+                    "is_free": null,
+                    "description": "弱化版的三顶会，营销内容和比例大于三顶会。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/NpBt5GpoR0w3ONijngmVzw",
+                    "title": "36 氪",
+                    "is_free": null,
+                    "description": "和 LLM、AI 关系没那么大，但也是传统科技媒体了。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/sVhQ8agFQSqqMrSMiB55vA",
+                    "title": "Z Potentials",
+                    "is_free": null,
+                    "description": "LLM，AIGC 创业投资相关资讯。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/7hHz3IHqIF-UWC9eg3UhOA",
+                    "title": "爱可可爱生活",
+                    "is_free": null,
+                    "description": "其实微博才是大佬的主战场，大佬会分享一些最新的论文，如果有点评就更好了。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/6_4SYTbMe8mSXJ4U1vIbqg",
+                    "title": "数字生命卡兹克",
+                    "is_free": null,
+                    "description": "各种 AI 原创应用分享，以及新 AI 应用的介绍。有软广。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/-9rrprjsaJVsNShpQ0uMJA",
+                    "title": "李 rumor",
+                    "is_free": null,
+                    "description": "强化，大模型相关资讯分享，招聘信息发布，以及广告。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/Bp5aLPd0klp0IzyuzrO-hw",
+                    "title": "AI 科技评论",
+                    "is_free": null,
+                    "description": "CSDN 旗下的公众号,相当于是弱版的三顶会。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/9hLM3kSvgOZXsrIaNcC94Q",
+                    "title": "将门创投",
+                    "is_free": true,
+                    "description": "干货较多，但更新频率不高，能有办法直接邀请论文作者做免费分享。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                },
+                {
+                    "category": "公众号",
+                    "href": "https://mp.weixin.qq.com/s/0fSJa3QQ_E5PQXNlukcHsQ",
+                    "title": "强化学习实验室",
+                    "is_free": null,
+                    "description": "天大郝建业老师组的知识分享平台.他们分享的论文都比较重要，他们写的帖子也非常深入浅出。输出频率不算高，但比较稳定。",
+                    "image": "https://icon.horse/icon/mp.weixin.qq.com"
+                }
+            ]
         },
         {
-          "category": "资讯平台",
-          "href": "https://www.xiaoyuzhoufm.com/",
-          "title": "播客",
-          "is_free": null,
-          "description": "流行于欧美，音频方式分享知识",
-          "image": "https://icon.horse/icon/www.xiaoyuzhoufm.com"
+            "category": "网站",
+            "data": [
+                {
+                    "category": "网站",
+                    "href": "https://github.com/trending",
+                    "title": "GitHub Trending",
+                    "is_free": null,
+                    "description": "Github 热榜，程序员必刷，祝大家早日登榜!",
+                    "image": "https://icon.horse/icon/github.com"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://papers.cool/",
+                    "title": "Cool Papers - Immersive Paper Discover",
+                    "is_free": null,
+                    "description": "苏剑林大佬开发的一个刷论文的网站",
+                    "image": "https://icon.horse/icon/papers.cool"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://kexue.fm/",
+                    "title": "科学空间",
+                    "is_free": null,
+                    "description": "苏佬开发的",
+                    "image": "https://icon.horse/icon/kexue.fm"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://huggingface.co/papers",
+                    "title": "Daily Papers - Hugging Face",
+                    "is_free": null,
+                    "description": "由 Huggingface 的 AK 大佬亲自维护的一个论文日榜，但对中文用户不太友好。",
+                    "image": "https://icon.horse/icon/huggingface.co"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://news.mit.edu/",
+                    "title": "MITNews",
+                    "is_free": null,
+                    "description": "应该是国内科技自媒体的上游信息源了。",
+                    "image": "https://icon.horse/icon/news.mit.edu"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://paperswithcode.com/sota",
+                    "title": "paperswithcode.com/sota",
+                    "is_free": null,
+                    "description": "一些领域的 Sota 方法排行榜。",
+                    "image": "https://icon.horse/icon/paperswithcode.com"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://www.runoob.com/",
+                    "title": "菜鸟教程",
+                    "is_free": null,
+                    "description": "学的不仅是技术，更是梦想!:拓展技术栈比较好的网站",
+                    "image": "https://icon.horse/icon/www.runoob.com"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://arxiv.org/list/cs.CL/recent",
+                    "title": "LLM-Arxiv",
+                    "is_free": null,
+                    "description": "关于 LLM 的最新 Arxiv 论文列表，有空刷一下。这是原始信息源,是 Cool Papers 的简版",
+                    "image": "https://icon.horse/icon/arxiv.org"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://www.showmeai.tech/",
+                    "title": "ShowMeAl",
+                    "is_free": null,
+                    "description": "乔 sir 维护的 Al 日报。一个 AI 信息的整合平台。",
+                    "image": "https://icon.horse/icon/www.showmeai.tech"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://www.futurepedia.io/",
+                    "title": "Futurepedia",
+                    "is_free": null,
+                    "description": "AI 应用目录，每日更新。",
+                    "image": "https://icon.horse/icon/www.futurepedia.io"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://www.reddit.com/r/ChatGPT",
+                    "title": "Reddit ChatGPT",
+                    "is_free": null,
+                    "description": "成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者",
+                    "image": "https://icon.horse/icon/www.reddit.com"
+                },
+                {
+                    "category": "网站",
+                    "href": "https://www.reddit.com/r/artificial/",
+                    "title": "Reddit artificial",
+                    "is_free": null,
+                    "description": "Reddit 人工智能社区，73 万订阅",
+                    "image": "https://icon.horse/icon/www.reddit.com"
+                }
+            ]
         },
         {
-          "category": "资讯平台",
-          "href": "https://arxiv.org/",
-          "title": "Arxiv",
-          "is_free": true,
-          "description": "开放免费的科学研究论文预印本库，主要面向物理学、数学、计算机科学、经济学等领域",
-          "image": "https://icon.horse/icon/arxiv.org"
+            "category": "播客",
+            "data": [
+                {
+                    "category": "播客",
+                    "href": "https://www.xiaoyuzhoufm.com/podcast/643928f99361a4e7c38a9555",
+                    "title": "AI 局内人",
+                    "is_free": null,
+                    "description": "",
+                    "image": "https://icon.horse/icon/www.xiaoyuzhoufm.com"
+                }
+            ]
+        },
+        {
+            "category": "博客",
+            "data": [
+                {
+                    "category": "博客",
+                    "href": "https://openai.com/blog",
+                    "title": "OpenAI Blog",
+                    "is_free": null,
+                    "description": "OpenAI 的官方博客，提供研究更新和深度分析，提供深度学习和人工智能相关的深度文章。",
+                    "image": "https://icon.horse/icon/openai.com"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://blog.research.google/",
+                    "title": "Google Blog",
+                    "is_free": null,
+                    "description": "Google AI 团队的官方博客，介绍最新的研究进展和应用，提供人工智能和机器学习的新闻和研究。",
+                    "image": "https://icon.horse/icon/blog.research.google"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://deepmind.google/discover/blog/",
+                    "title": "Deepmind Blog",
+                    "is_free": null,
+                    "description": "DeepMind 的官方博客，介绍他们的研究成果和最新进展，提供人工智能和深度学习的最新研究成果。",
+                    "image": "https://icon.horse/icon/deepmind.google"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://ai.meta.com/blog/",
+                    "title": "Meta Blog",
+                    "is_free": null,
+                    "description": "Facebook AI 团队的官方博客，分享他们的研究和新的 AI 技术，提供 AI 的最新研究成果和应用。",
+                    "image": "https://icon.horse/icon/ai.meta.com"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://blogs.nvidia.com/blog/category/deep-learning/",
+                    "title": "Nvidia Blog",
+                    "is_free": null,
+                    "description": "英伟达公司的官方 AI 博客，分享他们在 AI 和深度学习领域的最新进展和研究，提供了大量关于硬件加速、AI 应用和深度学习的深度文章。",
+                    "image": "https://icon.horse/icon/blogs.nvidia.com"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://blogs.microsoft.com/",
+                    "title": "Microsoft Blog",
+                    "is_free": null,
+                    "description": "微软公司的官方 AI 博客，分享他们在 AI 和机器学习领域的最新研究和进展，提供了大量关于 AI 技术和应用的深度文章。",
+                    "image": "https://icon.horse/icon/blogs.microsoft.com"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://www.cs.toronto.edu/~hinton/",
+                    "title": "Geoffrey Hinton",
+                    "is_free": null,
+                    "description": "Geoffrey Hinton，被誉为“深度学习之父”，他的个人主页分享了他在 AI 领域的研究和成果，提供深度学习和人工智能的深度文章。",
+                    "image": "https://icon.horse/icon/www.cs.toronto.edu"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://karpathy.github.io/",
+                    "title": "Jason Brownlee",
+                    "is_free": null,
+                    "description": "Jason Brownlee 的博客，提供机器学习和深度学习的教程和文章，提供机器学习和深度学习的教程和文章。",
+                    "image": "https://icon.horse/icon/karpathy.github.io"
+                },
+                {
+                    "category": "博客",
+                    "href": "https://lilianweng.github.io/",
+                    "title": "Li&#39;Log:lilian",
+                    "is_free": null,
+                    "description": "基本上可以把一个领域，系统的梳理清楚。通俗易懂，深入浅出!",
+                    "image": "https://icon.horse/icon/lilianweng.github.io"
+                }
+            ]
+        },
+        {
+            "category": "知乎",
+            "data": [
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/org/huggingface",
+                    "title": "Hugging Face",
+                    "is_free": null,
+                    "description": "Huggingface face 官方号，会分享一些基础技术贴，工作日更新频率比较高。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/su-jian-lin-22",
+                    "title": "苏剑林",
+                    "is_free": null,
+                    "description": "苏剑林:苏佬去年从追一去月之暗面了。玩知乎的，苏佬应该不用多介绍了。虽然大本营在他自己的科学空间，后面也会介绍，但知乎刷起来会更方便一些。唯一难受的是，苏佬很多帖子都需要一定的数理基础才能看懂。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/mli65",
+                    "title": "李沐",
+                    "is_free": null,
+                    "description": "沐神，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和 AI 相关文章，B 站 有他的系列课程。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/li-bo-jie",
+                    "title": "李博杰",
+                    "is_free": null,
+                    "description": "科大博士，前华为天少。师兄的知乎分享频率非常高，质量同样高，长文干货贴+脑洞+个人见解。领域几乎包含全 AI 领域，值得大家关注。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/rumor-lee",
+                    "title": "李 rumor",
+                    "is_free": null,
+                    "description": "北航，现在美团做 RLHF。其实公众号是她的主战场会分享一些有趣的 AI 知识。但感觉在美团做 RLHF，已经占用了她太多的时间了，更新频率没那么高了。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/LiuCongNLP",
+                    "title": "刘聪 NLP",
+                    "is_free": null,
+                    "description": "《ChatGPT 原理与实战》作者。LLM 的学术和行业信息。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/soulteary",
+                    "title": "苏洋",
+                    "is_free": null,
+                    "description": "大佬的经历一长串，泛 AI 领域的资讯，关注就行了。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/tian-yuan-dong",
+                    "title": "田渊栋",
+                    "is_free": null,
+                    "description": "MetaFAIR 研究院研究员，CMU 机器人博士。之前做 MARL，做长文本小说生成，以及现在做 LLM，大佬非常强，在知乎的干货输出也很多，直接关注就行。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/wan-shang-zhu-ce-de",
+                    "title": "毛航宇",
+                    "is_free": null,
+                    "description": "北大博士，前华为诺亚，现商汤。之前做 MARL，现在弃坑，去做 LLMAgent 了，主要分享这两个方向的学术进展，个人见解，以及相关八卦。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/xin-xi-men-xia-de-pao-gou/posts",
+                    "title": "信息门下跑狗",
+                    "is_free": null,
+                    "description": "北大跑姐，重拳出击学术造假，但最近更新频率也下降了。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/youngfish42",
+                    "title": "白小鱼",
+                    "is_free": null,
+                    "description": "上交。联邦学习相关干货知识分享，以及推荐各种 LLM 相关讯息。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/huangzhe",
+                    "title": "桔了个仔",
+                    "is_free": null,
+                    "description": "AI 领域大佬答主了。泛 AI 领域的咨询。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/ai--53-32",
+                    "title": "Al 小舟哥",
+                    "is_free": null,
+                    "description": "Huggingface 的大佬。但微信朋友圈的资讯都是一手最新的。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/sikila",
+                    "title": "王鹏程",
+                    "is_free": null,
+                    "description": "中科大。博主的想法会分享最新 arxiv 论文的图文介绍，刷起来很舒服。建议关注。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/who-u",
+                    "title": "何枝",
+                    "is_free": null,
+                    "description": "电子科大，现在字节。大佬是分享 RLHF 教程和代码讲解火出圈的，做相关工作的可以关注一下。不过在字节工作，应该是比较难输出了",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/dong-lin-zhong-sheng-76",
+                    "title": "东林钟声",
+                    "is_free": null,
+                    "description": "华科博士。博士方向是 RL+灵巧手。现在主要研究 LLM+灵巧手。大佬的干货比例和更新频率都比较好。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/yyss2037",
+                    "title": "YY 硕",
+                    "is_free": null,
+                    "description": "卡内基梅隆大学博士。机器人领域的优质答主，关注就完事儿了。输出频率不高，但每个帖子都值得认真阅读。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/li-miao-8-1",
+                    "title": "李淼 robot",
+                    "is_free": null,
+                    "description": "EPFL(瑞士洛桑联邦理工).博士，现在武汉某高校(隐约记得是武大)。李老师是机器人领域的优质答主，之前有比较多的教程贴，现在更新频率较低。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/ding-xiao-yi-93",
+                    "title": "丁霄汉",
+                    "is_free": null,
+                    "description": "清华博士，现在腾讯 AIlab。主要分享一些关于学术写作、审稿、cv、AI 圈八卦和暴论。阅读起来比较开心",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                },
+                {
+                    "category": "知乎",
+                    "href": "https://www.zhihu.com/people/zhao-ytc",
+                    "title": "电光幻影炼金术",
+                    "is_free": null,
+                    "description": "上交博士，大佬的方向很杂，我刷了一圈都定位到具体专业。主要分享全领域学术进展、读研读博教程(包括写作、投稿、审稿、师生关系等)，更新频率比较高。",
+                    "image": "https://icon.horse/icon/www.zhihu.com"
+                }
+            ]
+        },
+        {
+            "category": "B 站 Up 主",
+            "data": [
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/5760446?spm_id_from=333.337.0.0",
+                    "title": "花儿不哭",
+                    "is_free": null,
+                    "description": "RVC 变声器创始人 GPT-sovits 作者，关注声音复刻的可以关注",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/241286257?spm_id_from=333.337.search-card.all.click",
+                    "title": "风信子的猫 Redamancy",
+                    "is_free": null,
+                    "description": "数字人对话系统 Linly-Talker。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/39089748?spm_id_from=333.337.0.0",
+                    "title": "李自然说",
+                    "is_free": null,
+                    "description": "AI 连续创业者，对业界的思考很有价值。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/19319172?spm_id_from=333.337.0.0",
+                    "title": "差评君",
+                    "is_free": null,
+                    "description": "一些 AI 领域评测和分享，范围较广",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/1732848825?spm_id_from=333.337.0.0",
+                    "title": "耿同学讲故事",
+                    "is_free": null,
+                    "description": "北航老哥，战斗力非常猛，下饭利器!",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/49975325?spm_id_from=333.337.0.0",
+                    "title": "机器人科学与技术",
+                    "is_free": null,
+                    "description": "会分享最新的一些国际大组的机器人演示 demo，但没有做更多点评。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/371846699?spm_id_from=333.337.0.0",
+                    "title": "图灵的猫",
+                    "is_free": null,
+                    "description": "下饭视频看。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/23947287?spm_id_from=333.337.0.0",
+                    "title": "小约翰可汗",
+                    "is_free": null,
+                    "description": "说到下饭视频，必须得优可汗",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/1010101551?spm_id_from=333.337.0.0",
+                    "title": "来自星星的何教授",
+                    "is_free": null,
+                    "description": "室温超导+学术八卦跑的最快的 up",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/393702473?spm_id_from=333.337.0.0",
+                    "title": "落英行者",
+                    "is_free": null,
+                    "description": "各种尖端行业深度解析，很好奇素材都是哪儿来的。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/357669580?spm_id_from=333.337.0.0",
+                    "title": "萌萌战队",
+                    "is_free": null,
+                    "description": "空气动力学，激波!最像营销号的干货号。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/475312678?spm_id_from=333.337.0.0",
+                    "title": "二进制哈士奇",
+                    "is_free": null,
+                    "description": "学术版 GPT 的作者，分享学术版 GPT 最新的功能。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/431556168?spm_id_from=333.337.0.0",
+                    "title": "浪子之心科技",
+                    "is_free": null,
+                    "description": "数字人，AIGC 开源项目介绍。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/1572312?spm_id_from=333.337.0.0",
+                    "title": "李鲁鲁",
+                    "is_free": null,
+                    "description": "AIGC、LLM 角色扮演、论文分享，大佬的知乎我忘记贴了!",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/12566101?spm_id_from=333.337.0.0",
+                    "title": "秋葉 aaaki",
+                    "is_free": null,
+                    "description": "AI 绘图界的喂饭级 Up，狠狠关注!",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/615957867?spm_id_from=333.337.0.0",
+                    "title": "五里墩茶社",
+                    "is_free": null,
+                    "description": "最新的 LLM 相关工具分享，很多新工具都有新手入门，值得关注。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/1369507485?spm_id_from=333.337.0.0",
+                    "title": "ShusenWang",
+                    "is_free": true,
+                    "description": "王老师的强化学习课和推荐系统课，都是免费的，讲的非常好!",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/314022607?spm_id_from=333.337.0.0",
+                    "title": "王树义老师",
+                    "is_free": null,
+                    "description": "一些新 AI 工具的使用分享。比较适合小白。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/295428344?spm_id_from=333.337.0.0",
+                    "title": "霍华德 vlog",
+                    "is_free": null,
+                    "description": "华叔出走知乎，去了 B 站，现在主要分享 rwkv 的内容，以及一些泛 AI 的信息。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                },
+                {
+                    "category": "B 站 Up 主",
+                    "href": "https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0",
+                    "title": "跟李沐学 AI",
+                    "is_free": null,
+                    "description": "深度学习论文解读和教程,关注就行，最近老师创业去了，断更了。",
+                    "image": "https://icon.horse/icon/space.bilibili.com"
+                }
+            ]
+        },
+        {
+            "category": "油管 Up 主",
+            "data": [
+                {
+                    "category": "油管 Up 主",
+                    "href": "https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ",
+                    "title": "李宏毅",
+                    "is_free": null,
+                    "description": "台湾科技大学的知名 AI 研究者，提供深度学习和人工智能的深度文章和视频。",
+                    "image": "https://icon.horse/icon/www.youtube.com"
+                }
+            ]
+        },
+        {
+            "category": "电报",
+            "data": [
+                {
+                    "category": "电报",
+                    "href": "https://t.me/AI_News_CN",
+                    "title": "ChatGPT / AI 新闻聚合",
+                    "is_free": null,
+                    "description": "汇集全网 ChatGPT/AI 新闻",
+                    "image": "https://icon.horse/icon/t.me"
+                },
+                {
+                    "category": "电报",
+                    "href": "https://t.me/geekshare",
+                    "title": "极客分享",
+                    "is_free": null,
+                    "description": "分享各种高质量网站、工具、APP、开源项目等一切好玩的东西 🚀",
+                    "image": "https://icon.horse/icon/t.me"
+                },
+                {
+                    "category": "电报",
+                    "href": "https://t.me/aigc1024",
+                    "title": "AI 探索指南",
+                    "is_free": null,
+                    "description": "关于 ChatGPT、Bard 等人工智能、思维方式、知识拓展，能力提升等。",
+                    "image": "https://icon.horse/icon/t.me"
+                },
+                {
+                    "category": "电报",
+                    "href": "https://t.me/aigcnote",
+                    "title": "AI News",
+                    "is_free": null,
+                    "description": "记录 AI 业界大新闻和最有趣的新产品",
+                    "image": "https://icon.horse/icon/t.me"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "category": "X（推特 twitter）",
-      "data": [
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://readwise.io/twitter_leaderboard?threads",
-          "title": "Twitter threads",
-          "is_free": null,
-          "description": "一个 Twitter 排行榜列表",
-          "image": "https://icon.horse/icon/readwise.io"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/OpenAI",
-          "title": "OpenAI",
-          "is_free": null,
-          "description": "OpenAI 官方号，发布最强 AI 模型最新消息",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/sama",
-          "title": "Sam Altman",
-          "is_free": null,
-          "description": "OpenAI 创始人，YC 前主席",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/elonmusk",
-          "title": "Elon Musk",
-          "is_free": null,
-          "description": "钢铁侠马斯克",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/ylecun",
-          "title": "Yann LeCun",
-          "is_free": null,
-          "description": "Meta 前首席科学家",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/karpathy",
-          "title": "Andrej Karpathy",
-          "is_free": null,
-          "description": "前特斯拉的 AI 总监，也是 OpenAI 的创始团队成员和研究科学家",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/fchollet",
-          "title": "François Chollet",
-          "is_free": null,
-          "description": "推特界最会研究人工智能的一位网红科学家，Keras 创始人",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/drfeifei",
-          "title": "李飞飞",
-          "is_free": null,
-          "description": "是斯坦福大学人工智能实验室的主任，她是计算机视觉和人工智能领域的领先专家之一",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/soumithchintala",
-          "title": "Soumith Chintala",
-          "is_free": null,
-          "description": "FAIR 研究工程师、深度学习框架 PyTorch 创建者之一",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/rasbt",
-          "title": "Sebastian Raschka",
-          "is_free": null,
-          "description": "经常分享论文解读",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/ClementDelangue",
-          "title": "clem",
-          "is_free": null,
-          "description": "HuggingFace 创始人兼 CEO",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/sirbayes",
-          "title": "Kevin Patrick Murphy",
-          "is_free": null,
-          "description": "谷歌大脑/深度学习的研究科学家。",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/markchen90",
-          "title": "Mark Chen",
-          "is_free": null,
-          "description": "OpenAI 的研究部门负责人",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/cmikeh2",
-          "title": "Connor Holmes",
-          "is_free": null,
-          "description": "Sora 系统领导",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/_tim_brooks",
-          "title": "Tim Brooks",
-          "is_free": null,
-          "description": "Sora 研究领导",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/_akhaliq",
-          "title": "AK",
-          "is_free": null,
-          "description": "知名博主",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/dotey",
-          "title": "宝玉",
-          "is_free": null,
-          "description": "推特宝玉老师，知名博主",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/DrJimFan",
-          "title": "Jim Fan",
-          "is_free": null,
-          "description": "Jim Fan, Nvidia 的科学家，经常分享 AI 相关",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/AndrewYNg",
-          "title": "吴恩达",
-          "is_free": null,
-          "description": "吴恩达， Coursera 联合创始人、斯坦福大学兼职教授、baidu AI 团队/谷歌大脑前负责人",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/op7418",
-          "title": "歸藏",
-          "is_free": null,
-          "description": "歸藏，经常分享 AI 最新资讯",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/Gorden_Sun",
-          "title": "Gorden Sun",
-          "is_free": null,
-          "description": "只发 AI 相关信息的产品经理，维护 AI 日报",
-          "image": "https://icon.horse/icon/twitter.com"
-        },
-        {
-          "category": "X（推特 twitter）",
-          "href": "https://twitter.com/quocleix",
-          "title": "Quo Le",
-          "is_free": null,
-          "description": "Goole 大脑首席科学家，经常分享 Google 最新研究成果",
-          "image": "https://icon.horse/icon/twitter.com"
-        }
-      ]
-    },
-    {
-      "category": "公众号",
-      "data": [
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/0XOBiRjjTR8KZIB5eRxS5g",
-          "title": "42 章经",
-          "is_free": null,
-          "description": "直接访谈 AI 领域最一线的大佬，纯干货",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=1610828918314319873&scene=126&sessionid=249306691#wechat_redirect",
-          "title": "机器人大讲堂",
-          "is_free": null,
-          "description": "清华孙富春老师团队维护的平台，机器人必关注，干货多，软广少。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/feScEzzUG44JbiuTCvZG6Q",
-          "title": "九章智驾",
-          "is_free": null,
-          "description": "自动驾驶领域的“顶会”",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g",
-          "title": "我爱计算机视觉",
-          "is_free": null,
-          "description": "主要会介绍一些最新论文解读。也有一些软广",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/wZApA2MpnymBQ22Gqs93lQ",
-          "title": "量子位",
-          "is_free": null,
-          "description": "别管什么标题党，分享一些最新的比较火的资讯",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/TyevzSaWihfxRA4ZZ0F1fg",
-          "title": "机器之心",
-          "is_free": null,
-          "description": "别管什么标题党，分享一些最新的比较火的资讯",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/WqQWS-hiQ1i1Ve6IPH3djw",
-          "title": "新智元",
-          "is_free": null,
-          "description": "别管什么标题党，分享一些最新的比较火的资讯",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/3jctCVGpBXegwQgS5YLjvQ",
-          "title": "Alwalker",
-          "is_free": null,
-          "description": "cv 相关的论文分享，干货比例高。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/OWlM1a_7lbbhgVAuUOu_mQ",
-          "title": "cver",
-          "is_free": null,
-          "description": "论文解读，开星球了，软广多。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/GxpZRfPgYFdNomGtFjLifA",
-          "title": "计算机视觉 life",
-          "is_free": null,
-          "description": "主要是自动驾驶,也开星球了，软广多",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/_u_QrjxF3M7Wk-gHKysiHQ",
-          "title": "游戏葡萄",
-          "is_free": null,
-          "description": "游戏领域:干货比较多，平台能接触到很多一线大厂的资源。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/RPzuppX1Q13tFVum9aSZSA",
-          "title": "老刘说 NLP",
-          "is_free": false,
-          "description": "原创干货比较多，少量付费，以及会维护一个付费社群，作者本身就是知识图谱和 NLP 专业出身，目前在 360 工作，所以信息量比营销号会好不少。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/2ZFsvr80AxvpJIWQ2YHJwg",
-          "title": "JioNLP",
-          "is_free": null,
-          "description": "作者目前在昆仑万维 LLM 团队，喜欢开源，喜欢分享各种 AI 知识，干货比例会比较高。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ",
-          "title": "NewBeeNLP",
-          "is_free": false,
-          "description": "nlp 相关内容，最新学术、技术贴，以及一些付费知识，广告。公众号的生态是这样的。大家按需关注。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/K5Hf2k6PXPLIq1DaQCWKag",
-          "title": "GithubDaily",
-          "is_free": false,
-          "description": "会介绍一些 Github 热门的项目，现在主要是 LLM 相关的内容，有点标题党，有广告，有知识星球付费。大家按需关注。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/9_GKQUIYujIj2xcJ45fM4g",
-          "title": "夕小瑶科技说",
-          "is_free": null,
-          "description": "弱化版的三顶会，营销内容和比例大于三顶会。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/NpBt5GpoR0w3ONijngmVzw",
-          "title": "36 氪",
-          "is_free": null,
-          "description": "和 LLM、AI 关系没那么大，但也是传统科技媒体了。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/sVhQ8agFQSqqMrSMiB55vA",
-          "title": "Z Potentials",
-          "is_free": null,
-          "description": "LLM，AIGC 创业投资相关资讯。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/7hHz3IHqIF-UWC9eg3UhOA",
-          "title": "爱可可爱生活",
-          "is_free": null,
-          "description": "其实微博才是大佬的主战场，大佬会分享一些最新的论文，如果有点评就更好了。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/6_4SYTbMe8mSXJ4U1vIbqg",
-          "title": "数字生命卡兹克",
-          "is_free": null,
-          "description": "各种 AI 原创应用分享，以及新 AI 应用的介绍。有软广。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/-9rrprjsaJVsNShpQ0uMJA",
-          "title": "李 rumor",
-          "is_free": null,
-          "description": "强化，大模型相关资讯分享，招聘信息发布，以及广告。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/Bp5aLPd0klp0IzyuzrO-hw",
-          "title": "AI 科技评论",
-          "is_free": null,
-          "description": "CSDN 旗下的公众号,相当于是弱版的三顶会。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/9hLM3kSvgOZXsrIaNcC94Q",
-          "title": "将门创投",
-          "is_free": true,
-          "description": "干货较多，但更新频率不高，能有办法直接邀请论文作者做免费分享。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        },
-        {
-          "category": "公众号",
-          "href": "https://mp.weixin.qq.com/s/0fSJa3QQ_E5PQXNlukcHsQ",
-          "title": "强化学习实验室",
-          "is_free": null,
-          "description": "天大郝建业老师组的知识分享平台.他们分享的论文都比较重要，他们写的帖子也非常深入浅出。输出频率不算高，但比较稳定。",
-          "image": "https://icon.horse/icon/mp.weixin.qq.com"
-        }
-      ]
-    },
-    {
-      "category": "网站",
-      "data": [
-        {
-          "category": "网站",
-          "href": "https://github.com/trending",
-          "title": "GitHub Trending",
-          "is_free": null,
-          "description": "Github 热榜，程序员必刷，祝大家早日登榜!",
-          "image": "https://icon.horse/icon/github.com"
-        },
-        {
-          "category": "网站",
-          "href": "https://papers.cool/",
-          "title": "Cool Papers - Immersive Paper Discover",
-          "is_free": null,
-          "description": "苏剑林大佬开发的一个刷论文的网站",
-          "image": "https://icon.horse/icon/papers.cool"
-        },
-        {
-          "category": "网站",
-          "href": "https://kexue.fm/",
-          "title": "科学空间",
-          "is_free": null,
-          "description": "苏佬开发的",
-          "image": "https://icon.horse/icon/kexue.fm"
-        },
-        {
-          "category": "网站",
-          "href": "https://huggingface.co/papers",
-          "title": "Daily Papers - Hugging Face",
-          "is_free": null,
-          "description": "由 Huggingface 的 AK 大佬亲自维护的一个论文日榜，但对中文用户不太友好。",
-          "image": "https://icon.horse/icon/huggingface.co"
-        },
-        {
-          "category": "网站",
-          "href": "https://news.mit.edu/",
-          "title": "MITNews",
-          "is_free": null,
-          "description": "应该是国内科技自媒体的上游信息源了。",
-          "image": "https://icon.horse/icon/news.mit.edu"
-        },
-        {
-          "category": "网站",
-          "href": "https://paperswithcode.com/sota",
-          "title": "paperswithcode.com/sota",
-          "is_free": null,
-          "description": "一些领域的 Sota 方法排行榜。",
-          "image": "https://icon.horse/icon/paperswithcode.com"
-        },
-        {
-          "category": "网站",
-          "href": "https://www.runoob.com/",
-          "title": "菜鸟教程",
-          "is_free": null,
-          "description": "学的不仅是技术，更是梦想!:拓展技术栈比较好的网站",
-          "image": "https://icon.horse/icon/www.runoob.com"
-        },
-        {
-          "category": "网站",
-          "href": "https://arxiv.org/list/cs.CL/recent",
-          "title": "LLM-Arxiv",
-          "is_free": null,
-          "description": "关于 LLM 的最新 Arxiv 论文列表，有空刷一下。这是原始信息源,是 Cool Papers 的简版",
-          "image": "https://icon.horse/icon/arxiv.org"
-        },
-        {
-          "category": "网站",
-          "href": "https://www.showmeai.tech/",
-          "title": "ShowMeAl",
-          "is_free": null,
-          "description": "乔 sir 维护的 Al 日报。一个 AI 信息的整合平台。",
-          "image": "https://icon.horse/icon/www.showmeai.tech"
-        },
-        {
-          "category": "网站",
-          "href": "https://www.futurepedia.io/",
-          "title": "Futurepedia",
-          "is_free": null,
-          "description": "AI 应用目录，每日更新。",
-          "image": "https://icon.horse/icon/www.futurepedia.io"
-        },
-        {
-          "category": "网站",
-          "href": "https://www.reddit.com/r/ChatGPT",
-          "title": "Reddit ChatGPT",
-          "is_free": null,
-          "description": "成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者",
-          "image": "https://icon.horse/icon/www.reddit.com"
-        },
-        {
-          "category": "网站",
-          "href": "https://www.reddit.com/r/artificial/",
-          "title": "Reddit artificial",
-          "is_free": null,
-          "description": "Reddit 人工智能社区，73 万订阅",
-          "image": "https://icon.horse/icon/www.reddit.com"
-        }
-      ]
-    },
-    {
-      "category": "播客",
-      "data": [
-        {
-          "category": "播客",
-          "href": "https://www.xiaoyuzhoufm.com/podcast/643928f99361a4e7c38a9555",
-          "title": "AI 局内人",
-          "is_free": null,
-          "description": "",
-          "image": "https://icon.horse/icon/www.xiaoyuzhoufm.com"
-        }
-      ]
-    },
-    {
-      "category": "博客",
-      "data": [
-        {
-          "category": "博客",
-          "href": "https://openai.com/blog",
-          "title": "OpenAI Blog",
-          "is_free": null,
-          "description": "OpenAI 的官方博客，提供研究更新和深度分析，提供深度学习和人工智能相关的深度文章。",
-          "image": "https://icon.horse/icon/openai.com"
-        },
-        {
-          "category": "博客",
-          "href": "https://blog.research.google/",
-          "title": "Google Blog",
-          "is_free": null,
-          "description": "Google AI 团队的官方博客，介绍最新的研究进展和应用，提供人工智能和机器学习的新闻和研究。",
-          "image": "https://icon.horse/icon/blog.research.google"
-        },
-        {
-          "category": "博客",
-          "href": "https://deepmind.google/discover/blog/",
-          "title": "Deepmind Blog",
-          "is_free": null,
-          "description": "DeepMind 的官方博客，介绍他们的研究成果和最新进展，提供人工智能和深度学习的最新研究成果。",
-          "image": "https://icon.horse/icon/deepmind.google"
-        },
-        {
-          "category": "博客",
-          "href": "https://ai.meta.com/blog/",
-          "title": "Meta Blog",
-          "is_free": null,
-          "description": "Facebook AI 团队的官方博客，分享他们的研究和新的 AI 技术，提供 AI 的最新研究成果和应用。",
-          "image": "https://icon.horse/icon/ai.meta.com"
-        },
-        {
-          "category": "博客",
-          "href": "https://blogs.nvidia.com/blog/category/deep-learning/",
-          "title": "Nvidia Blog",
-          "is_free": null,
-          "description": "英伟达公司的官方 AI 博客，分享他们在 AI 和深度学习领域的最新进展和研究，提供了大量关于硬件加速、AI 应用和深度学习的深度文章。",
-          "image": "https://icon.horse/icon/blogs.nvidia.com"
-        },
-        {
-          "category": "博客",
-          "href": "https://blogs.microsoft.com/",
-          "title": "Microsoft Blog",
-          "is_free": null,
-          "description": "微软公司的官方 AI 博客，分享他们在 AI 和机器学习领域的最新研究和进展，提供了大量关于 AI 技术和应用的深度文章。",
-          "image": "https://icon.horse/icon/blogs.microsoft.com"
-        },
-        {
-          "category": "博客",
-          "href": "https://www.cs.toronto.edu/~hinton/",
-          "title": "Geoffrey Hinton",
-          "is_free": null,
-          "description": "Geoffrey Hinton，被誉为“深度学习之父”，他的个人主页分享了他在 AI 领域的研究和成果，提供深度学习和人工智能的深度文章。",
-          "image": "https://icon.horse/icon/www.cs.toronto.edu"
-        },
-        {
-          "category": "博客",
-          "href": "https://karpathy.github.io/",
-          "title": "Jason Brownlee",
-          "is_free": null,
-          "description": "Jason Brownlee 的博客，提供机器学习和深度学习的教程和文章，提供机器学习和深度学习的教程和文章。",
-          "image": "https://icon.horse/icon/karpathy.github.io"
-        },
-        {
-          "category": "博客",
-          "href": "https://lilianweng.github.io/",
-          "title": "Li&#39;Log:lilian",
-          "is_free": null,
-          "description": "基本上可以把一个领域，系统的梳理清楚。通俗易懂，深入浅出!",
-          "image": "https://icon.horse/icon/lilianweng.github.io"
-        }
-      ]
-    },
-    {
-      "category": "知乎",
-      "data": [
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/org/huggingface",
-          "title": "Hugging Face",
-          "is_free": null,
-          "description": "Huggingface face 官方号，会分享一些基础技术贴，工作日更新频率比较高。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/su-jian-lin-22",
-          "title": "苏剑林",
-          "is_free": null,
-          "description": "苏剑林:苏佬去年从追一去月之暗面了。玩知乎的，苏佬应该不用多介绍了。虽然大本营在他自己的科学空间，后面也会介绍，但知乎刷起来会更方便一些。唯一难受的是，苏佬很多帖子都需要一定的数理基础才能看懂。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/mli65",
-          "title": "李沐",
-          "is_free": null,
-          "description": "沐神，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和 AI 相关文章，B 站 有他的系列课程。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/li-bo-jie",
-          "title": "李博杰",
-          "is_free": null,
-          "description": "科大博士，前华为天少。师兄的知乎分享频率非常高，质量同样高，长文干货贴+脑洞+个人见解。领域几乎包含全 AI 领域，值得大家关注。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/rumor-lee",
-          "title": "李 rumor",
-          "is_free": null,
-          "description": "北航，现在美团做 RLHF。其实公众号是她的主战场会分享一些有趣的 AI 知识。但感觉在美团做 RLHF，已经占用了她太多的时间了，更新频率没那么高了。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/LiuCongNLP",
-          "title": "刘聪 NLP",
-          "is_free": null,
-          "description": "《ChatGPT 原理与实战》作者。LLM 的学术和行业信息。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/soulteary",
-          "title": "苏洋",
-          "is_free": null,
-          "description": "大佬的经历一长串，泛 AI 领域的资讯，关注就行了。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/tian-yuan-dong",
-          "title": "田渊栋",
-          "is_free": null,
-          "description": "MetaFAIR 研究院研究员，CMU 机器人博士。之前做 MARL，做长文本小说生成，以及现在做 LLM，大佬非常强，在知乎的干货输出也很多，直接关注就行。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/wan-shang-zhu-ce-de",
-          "title": "毛航宇",
-          "is_free": null,
-          "description": "北大博士，前华为诺亚，现商汤。之前做 MARL，现在弃坑，去做 LLMAgent 了，主要分享这两个方向的学术进展，个人见解，以及相关八卦。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/xin-xi-men-xia-de-pao-gou/posts",
-          "title": "信息门下跑狗",
-          "is_free": null,
-          "description": "北大跑姐，重拳出击学术造假，但最近更新频率也下降了。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/youngfish42",
-          "title": "白小鱼",
-          "is_free": null,
-          "description": "上交。联邦学习相关干货知识分享，以及推荐各种 LLM 相关讯息。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/huangzhe",
-          "title": "桔了个仔",
-          "is_free": null,
-          "description": "AI 领域大佬答主了。泛 AI 领域的咨询。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/ai--53-32",
-          "title": "Al 小舟哥",
-          "is_free": null,
-          "description": "Huggingface 的大佬。但微信朋友圈的资讯都是一手最新的。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/sikila",
-          "title": "王鹏程",
-          "is_free": null,
-          "description": "中科大。博主的想法会分享最新 arxiv 论文的图文介绍，刷起来很舒服。建议关注。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/who-u",
-          "title": "何枝",
-          "is_free": null,
-          "description": "电子科大，现在字节。大佬是分享 RLHF 教程和代码讲解火出圈的，做相关工作的可以关注一下。不过在字节工作，应该是比较难输出了",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/dong-lin-zhong-sheng-76",
-          "title": "东林钟声",
-          "is_free": null,
-          "description": "华科博士。博士方向是 RL+灵巧手。现在主要研究 LLM+灵巧手。大佬的干货比例和更新频率都比较好。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/yyss2037",
-          "title": "YY 硕",
-          "is_free": null,
-          "description": "卡内基梅隆大学博士。机器人领域的优质答主，关注就完事儿了。输出频率不高，但每个帖子都值得认真阅读。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/li-miao-8-1",
-          "title": "李淼 robot",
-          "is_free": null,
-          "description": "EPFL(瑞士洛桑联邦理工).博士，现在武汉某高校(隐约记得是武大)。李老师是机器人领域的优质答主，之前有比较多的教程贴，现在更新频率较低。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/ding-xiao-yi-93",
-          "title": "丁霄汉",
-          "is_free": null,
-          "description": "清华博士，现在腾讯 AIlab。主要分享一些关于学术写作、审稿、cv、AI 圈八卦和暴论。阅读起来比较开心",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        },
-        {
-          "category": "知乎",
-          "href": "https://www.zhihu.com/people/zhao-ytc",
-          "title": "电光幻影炼金术",
-          "is_free": null,
-          "description": "上交博士，大佬的方向很杂，我刷了一圈都定位到具体专业。主要分享全领域学术进展、读研读博教程(包括写作、投稿、审稿、师生关系等)，更新频率比较高。",
-          "image": "https://icon.horse/icon/www.zhihu.com"
-        }
-      ]
-    },
-    {
-      "category": "B 站 Up 主",
-      "data": [
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/5760446?spm_id_from=333.337.0.0",
-          "title": "花儿不哭",
-          "is_free": null,
-          "description": "RVC 变声器创始人 GPT-sovits 作者，关注声音复刻的可以关注",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/241286257?spm_id_from=333.337.search-card.all.click",
-          "title": "风信子的猫 Redamancy",
-          "is_free": null,
-          "description": "数字人对话系统 Linly-Talker。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/39089748?spm_id_from=333.337.0.0",
-          "title": "李自然说",
-          "is_free": null,
-          "description": "AI 连续创业者，对业界的思考很有价值。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/19319172?spm_id_from=333.337.0.0",
-          "title": "差评君",
-          "is_free": null,
-          "description": "一些 AI 领域评测和分享，范围较广",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/1732848825?spm_id_from=333.337.0.0",
-          "title": "耿同学讲故事",
-          "is_free": null,
-          "description": "北航老哥，战斗力非常猛，下饭利器!",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/49975325?spm_id_from=333.337.0.0",
-          "title": "机器人科学与技术",
-          "is_free": null,
-          "description": "会分享最新的一些国际大组的机器人演示 demo，但没有做更多点评。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/371846699?spm_id_from=333.337.0.0",
-          "title": "图灵的猫",
-          "is_free": null,
-          "description": "下饭视频看。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/23947287?spm_id_from=333.337.0.0",
-          "title": "小约翰可汗",
-          "is_free": null,
-          "description": "说到下饭视频，必须得优可汗",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/1010101551?spm_id_from=333.337.0.0",
-          "title": "来自星星的何教授",
-          "is_free": null,
-          "description": "室温超导+学术八卦跑的最快的 up",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/393702473?spm_id_from=333.337.0.0",
-          "title": "落英行者",
-          "is_free": null,
-          "description": "各种尖端行业深度解析，很好奇素材都是哪儿来的。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/357669580?spm_id_from=333.337.0.0",
-          "title": "萌萌战队",
-          "is_free": null,
-          "description": "空气动力学，激波!最像营销号的干货号。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/475312678?spm_id_from=333.337.0.0",
-          "title": "二进制哈士奇",
-          "is_free": null,
-          "description": "学术版 GPT 的作者，分享学术版 GPT 最新的功能。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/431556168?spm_id_from=333.337.0.0",
-          "title": "浪子之心科技",
-          "is_free": null,
-          "description": "数字人，AIGC 开源项目介绍。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/1572312?spm_id_from=333.337.0.0",
-          "title": "李鲁鲁",
-          "is_free": null,
-          "description": "AIGC、LLM 角色扮演、论文分享，大佬的知乎我忘记贴了!",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/12566101?spm_id_from=333.337.0.0",
-          "title": "秋葉 aaaki",
-          "is_free": null,
-          "description": "AI 绘图界的喂饭级 Up，狠狠关注!",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/615957867?spm_id_from=333.337.0.0",
-          "title": "五里墩茶社",
-          "is_free": null,
-          "description": "最新的 LLM 相关工具分享，很多新工具都有新手入门，值得关注。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/1369507485?spm_id_from=333.337.0.0",
-          "title": "ShusenWang",
-          "is_free": true,
-          "description": "王老师的强化学习课和推荐系统课，都是免费的，讲的非常好!",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/314022607?spm_id_from=333.337.0.0",
-          "title": "王树义老师",
-          "is_free": null,
-          "description": "一些新 AI 工具的使用分享。比较适合小白。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/295428344?spm_id_from=333.337.0.0",
-          "title": "霍华德 vlog",
-          "is_free": null,
-          "description": "华叔出走知乎，去了 B 站，现在主要分享 rwkv 的内容，以及一些泛 AI 的信息。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        },
-        {
-          "category": "B 站 Up 主",
-          "href": "https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0",
-          "title": "跟李沐学 AI",
-          "is_free": null,
-          "description": "深度学习论文解读和教程,关注就行，最近老师创业去了，断更了。",
-          "image": "https://icon.horse/icon/space.bilibili.com"
-        }
-      ]
-    },
-    {
-      "category": "油管 Up 主",
-      "data": [
-        {
-          "category": "油管 Up 主",
-          "href": "https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ",
-          "title": "李宏毅",
-          "is_free": null,
-          "description": "台湾科技大学的知名 AI 研究者，提供深度学习和人工智能的深度文章和视频。",
-          "image": "https://icon.horse/icon/www.youtube.com"
-        }
-      ]
-    },
-    {
-      "category": "电报",
-      "data": [
-        {
-          "category": "电报",
-          "href": "https://t.me/AI_News_CN",
-          "title": "ChatGPT / AI 新闻聚合",
-          "is_free": null,
-          "description": "汇集全网 ChatGPT/AI 新闻",
-          "image": "https://icon.horse/icon/t.me"
-        },
-        {
-          "category": "电报",
-          "href": "https://t.me/geekshare",
-          "title": "极客分享",
-          "is_free": null,
-          "description": "分享各种高质量网站、工具、APP、开源项目等一切好玩的东西 🚀",
-          "image": "https://icon.horse/icon/t.me"
-        },
-        {
-          "category": "电报",
-          "href": "https://t.me/aigc1024",
-          "title": "AI 探索指南",
-          "is_free": null,
-          "description": "关于 ChatGPT、Bard 等人工智能、思维方式、知识拓展，能力提升等。",
-          "image": "https://icon.horse/icon/t.me"
-        },
-        {
-          "category": "电报",
-          "href": "https://t.me/aigcnote",
-          "title": "AI News",
-          "is_free": null,
-          "description": "记录 AI 业界大新闻和最有趣的新产品",
-          "image": "https://icon.horse/icon/t.me"
-        }
-      ]
-    }
-  ],
-  "category_num": 10,
-  "tools_num": 118,
-  "update_time": "2024-03-08 13:48:23"
+    ],
+    "category_num": 10,
+    "tools_num": 118,
+    "update_time": "2024-03-08 13:48:23"
 }
