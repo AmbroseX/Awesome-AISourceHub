@@ -1,10 +1,10 @@
-import type {Metadata} from 'next'
-import {Inter} from 'next/font/google'
+import type { Metadata } from 'next'
+import { Inter } from 'next/font/google'
 import './globals.css'
 import Script from 'next/script'
-import {siteConfig} from '@/config/site'
+import { siteConfig } from '@/config/site'
 
-const inter = Inter({subsets: ['latin']})
+const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
     title: siteConfig.title,
@@ -47,6 +47,12 @@ export default function RootLayout({
                 </Script>
                 <Script
                     src={`https://hm.baidu.com/hm.js?${siteConfig.baiduId}`}
+                    strategy='afterInteractive'
+                />
+                <Script
+                    src='https://umami.youmiai.ai/script.js'
+                    async
+                    data-website-id='2762859b-a2df-4a33-b585-d758596265e8'
                     strategy='afterInteractive'
                 />
             </head>
