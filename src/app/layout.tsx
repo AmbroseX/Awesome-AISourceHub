@@ -50,9 +50,9 @@ export default function RootLayout({
                     strategy='afterInteractive'
                 />
                 <Script
-                    src='https://umami.youmiai.ai/script.js'
+                    src={siteConfig.umami_url}
                     async
-                    data-website-id='2762859b-a2df-4a33-b585-d758596265e8'
+                    data-website-id={siteConfig.umamiId}
                     strategy='afterInteractive'
                 />
             </head>

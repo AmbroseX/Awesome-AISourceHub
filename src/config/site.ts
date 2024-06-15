@@ -20,10 +20,12 @@ export const siteConfig = {
     copyright: `&copy; 2024 - ${new Date().getFullYear().toString()} by AmbroseX`,
     mainNav: [],
     submit: 'https://youmiais.feishu.cn/share/base/form/shrcnSO8Eh1g6krlh4iuAkMVfYg',
-    googleId: 'G-DQV98M9BYP',
+    googleId: 'G-DD671YWSV6',
     baiduId: 'b8c620bcdc7e56366dca8f529fddb7a2', //
     baiduVerifi: 'codeva-jkSt3dLvqE', //
     yandexVerifi: '0d0e0b71c05af6ae',
+    umami_url: 'https://umami.youmiai.ai/script.js',
+    umamiId: '2762859b-a2df-4a33-b585-d758596265e8',
     contact_p1: '欢迎关注康哥的公众号,持续更新AI开发、产品商业化日常~',
     links: {
         rss: 'https://www.aisourcehub.info/feed.xml',

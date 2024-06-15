@@ -27,7 +27,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                         className='-ml-6 -mr-10 hidden h-16 flex-col items-center justify-center sm:flex'
                         href='/'>
                         <h1 className='sm:text-sl text-xl font-bold text-purple-500'>
-                            独立开发者出海去工具大全
+                            AI信息源资讯平台
                         </h1>
                     </a>
                     <div className='mx-6 hidden flex-col items-center justify-center sm:flex'></div>
