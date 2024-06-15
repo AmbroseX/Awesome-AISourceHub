@@ -7,7 +7,7 @@ User-agent: black-listed-bot
 Disallow: /admin
 
 # Host
-Host: https://goout.tools
+Host: https://www.aisourcehub.info
 
 # Sitemaps
-Sitemap: https://goout.tools/sitemap.xml
+Sitemap: https://www.aisourcehub.info/sitemap.xml

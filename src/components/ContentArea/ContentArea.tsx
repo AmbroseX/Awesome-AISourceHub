@@ -54,7 +54,7 @@ const ContentArea: React.FC<{
                             target='_blank'
                             rel='noopener noreferrer'
                             className='text-blue-500 transition duration-300 ease-in-out hover:text-blue-700'>
-                            GoOut.tools 网页界面:{siteConfig.links.github_web}
+                            AISourceHub Github仓库:{siteConfig.links.github_web}
                         </a>
                     </li>
                     {/* <li className='py-1'>

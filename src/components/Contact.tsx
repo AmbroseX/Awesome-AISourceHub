@@ -16,7 +16,7 @@ const Contact: React.FC = () => {
                         <Image
                             className='rounded-lg px-2 py-2 '
                             src={siteConfig.official_image}
-                            alt='GoOut.tools 联系我'
+                            alt='AISourceHub.Info 联系我'
                             width={400}
                             height={300}></Image>
                     </p>
