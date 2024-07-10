@@ -243,11 +243,14 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 ## 联系
 欢迎关注康哥的公众号~
 
-![公众号](./images/wechat.png)
+<p align="center">
+    <img src="./images/wechat.png" alt="公众号" width="45%"/>
+</p>
+
 
 建了一个知识星球，会分享AI相关的活动讲座比赛咨询等
 
 <p align="center">
-  <img src="./images/zsxq.png" alt="知识星球" width="45%"/>
-  <img src="./images/星球优惠券.png" alt="星球优惠券" width="45%"/>
+  <img src="./images/zsxq.png" alt="知识星球" width="40%"/>
+  <img src="./images/星球优惠券.png" alt="星球优惠券" width="40%"/>
 </p>
