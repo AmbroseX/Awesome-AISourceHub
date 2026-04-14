@@ -30,6 +30,7 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 -   有干货
 -   和人工智能、科技相关
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 **了解一个领域的常见技巧**:
 
