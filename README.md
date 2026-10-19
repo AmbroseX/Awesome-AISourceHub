@@ -5,8 +5,6 @@
 本仓库收集 AI 科技领域高质量信息源。
 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 
-在线网址：[Ai Source Hub](https://www.aisourcehub.info)
-
 不想自己一个个刷信息源？可以看我做的 [AI观潮](https://aiguanchao.com/)：每天从上千个信息源里挑出值得看的 AI 新闻，附中文总结和原文链接，另有早晚两期 [AI 日报](https://aiguanchao.com/daily/archive)和[大模型排行榜](https://aiguanchao.com/leaderboard)（[English](https://aiguanchao.com/en)，[公开仓库](https://github.com/AmbroseX/aiguanchao)）。
 
 信息源越接近于源头的内容越好呢？下面这张图可以简单解释 信息流垃圾理论简图
