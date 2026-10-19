@@ -7,6 +7,8 @@
 
 在线网址：[Ai Source Hub](https://www.aisourcehub.info)
 
+不想自己一个个刷信息源？可以看我做的 [AI观潮](https://aiguanchao.com/)：每天从上千个信息源里挑出值得看的 AI 新闻，附中文总结和原文链接，另有早晚两期 [AI 日报](https://aiguanchao.com/daily/archive)和[大模型排行榜](https://aiguanchao.com/leaderboard)（[English](https://aiguanchao.com/en)，[公开仓库](https://github.com/AmbroseX/aiguanchao)）。
+
 信息源越接近于源头的内容越好呢？下面这张图可以简单解释 信息流垃圾理论简图
 ![信息流垃圾理论简图](./images/GHjI6S3bQAAUbB5.jpg)
 你认同这个图的顺序吗？
@@ -131,27 +133,29 @@ AI 领域的许多书籍作者、企业决策者和工具开发者经常使用 T
 
 ## 网站
 
-| 平台链接                                                       | 备注                                                                             |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [GitHub Trending](https://github.com/trending)                 | Github 热榜，程序员必刷，祝大家早日登榜!                                         |
-| [Cool Papers - Immersive Paper Discover](https://papers.cool/) | 苏剑林大佬开发的一个刷论文的网站                                                 |
-| [科学空间](https://kexue.fm/)                                  | 苏佬开发的                                                                       |
-| [Daily Papers - Hugging Face](https://huggingface.co/papers)   | 由 Huggingface 的 AK 大佬亲自维护的一个论文日榜，但对中文用户不太友好。          |
-| [MITNews](https://news.mit.edu/)                               | 应该是国内科技自媒体的上游信息源了。                                             |
-| [paperswithcode.com/sota](https://paperswithcode.com/sota)     | 一些领域的 Sota 方法排行榜。                                                     |
-| [菜鸟教程](https://www.runoob.com/)                            | 学的不仅是技术，更是梦想!:拓展技术栈比较好的网站                                 |
-| [LLM-Arxiv](https://arxiv.org/list/cs.CL/recent)               | 关于 LLM 的最新 Arxiv 论文列表，有空刷一下。这是原始信息源,是 Cool Papers 的简版 |
-| [ShowMeAl](https://www.showmeai.tech/)                         | 乔 sir 维护的 Al 日报。一个 AI 信息的整合平台。                                  |
-| [Futurepedia](https://www.futurepedia.io/)                     | AI 应用目录，每日更新。                                                          |
-| [Reddit ChatGPT](https://www.reddit.com/r/ChatGPT)             | 成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者  |
-| [Reddit artificial](https://www.reddit.com/r/artificial/)      | Reddit 人工智能社区，73 万订阅                                                   |
-| [GiantPandaCV](http://giantpandacv.com/)                       | 分享计算机视觉的干货，论文解读                                                   |
+| 平台链接                                                       | 备注                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Trending](https://github.com/trending)                 | Github 热榜，程序员必刷，祝大家早日登榜!                                                                                                                                                                                                                                                                                                                                                                              |
+| [AI观潮](https://aiguanchao.com/)                              | 每天从上千条 AI 新闻里挑出值得看的，附中文总结和原文链接。[AI 日报](https://aiguanchao.com/daily/archive)、[大模型排行榜](https://aiguanchao.com/leaderboard)、[热门事件](https://aiguanchao.com/hot)；RSS：[精选](https://aiguanchao.com/feed/featured.xml)、[日报](https://aiguanchao.com/feed/daily.xml)；可用 [MCP](https://aiguanchao.com/agent) 接进 Claude、Cursor（`https://aiguanchao.com/mcp`，要个人令牌） |
+| [Cool Papers - Immersive Paper Discover](https://papers.cool/) | 苏剑林大佬开发的一个刷论文的网站                                                                                                                                                                                                                                                                                                                                                                                      |
+| [科学空间](https://kexue.fm/)                                  | 苏佬开发的                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [Daily Papers - Hugging Face](https://huggingface.co/papers)   | 由 Huggingface 的 AK 大佬亲自维护的一个论文日榜，但对中文用户不太友好。                                                                                                                                                                                                                                                                                                                                               |
+| [MITNews](https://news.mit.edu/)                               | 应该是国内科技自媒体的上游信息源了。                                                                                                                                                                                                                                                                                                                                                                                  |
+| [paperswithcode.com/sota](https://paperswithcode.com/sota)     | 一些领域的 Sota 方法排行榜。                                                                                                                                                                                                                                                                                                                                                                                          |
+| [菜鸟教程](https://www.runoob.com/)                            | 学的不仅是技术，更是梦想!:拓展技术栈比较好的网站                                                                                                                                                                                                                                                                                                                                                                      |
+| [LLM-Arxiv](https://arxiv.org/list/cs.CL/recent)               | 关于 LLM 的最新 Arxiv 论文列表，有空刷一下。这是原始信息源,是 Cool Papers 的简版                                                                                                                                                                                                                                                                                                                                      |
+| [ShowMeAl](https://www.showmeai.tech/)                         | 乔 sir 维护的 Al 日报。一个 AI 信息的整合平台。                                                                                                                                                                                                                                                                                                                                                                       |
+| [Futurepedia](https://www.futurepedia.io/)                     | AI 应用目录，每日更新。                                                                                                                                                                                                                                                                                                                                                                                               |
+| [Reddit ChatGPT](https://www.reddit.com/r/ChatGPT)             | 成立于 2022 年 12 月, 目前观看次数最多的人工智能相关社区，拥有超过 350 万订阅者                                                                                                                                                                                                                                                                                                                                       |
+| [Reddit artificial](https://www.reddit.com/r/artificial/)      | Reddit 人工智能社区，73 万订阅                                                                                                                                                                                                                                                                                                                                                                                        |
+| [GiantPandaCV](http://giantpandacv.com/)                       | 分享计算机视觉的干货，论文解读                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ## 播客
 
-| 平台链接                                                                   | 备注 |
-| -------------------------------------------------------------------------- | ---- |
-| [AI 局内人](https://www.xiaoyuzhoufm.com/podcast/643928f99361a4e7c38a9555) |      |
+| 平台链接                                                                   | 备注                                                      |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [AI 局内人](https://www.xiaoyuzhoufm.com/podcast/643928f99361a4e7c38a9555) |                                                           |
+| [AI观潮播客](https://aiguanchao.com/feed/podcast.xml)                      | AI观潮 每天的 AI 新闻音频版，RSS 地址可直接填进播客客户端 |
 
 ## 博客
 
